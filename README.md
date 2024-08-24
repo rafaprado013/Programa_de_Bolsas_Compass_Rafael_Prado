@@ -22,7 +22,7 @@ Olá, sou Rafael Nascimento Prado, tenho 21 anos, e seja vindo ao meu perfil :)
 
 ##
 **Sprints**:
-- [Sprint 1](https://github.com/rafaprado013/Programa_de_Bolsas_Compass/tree/main/Sprint%201)
+- [Sprint 1](https://github.com/rafaprado013/Programa_de_Bolsas_Compass_Rafael_Prado/tree/main/Sprint%201)
 ##
 
 **Linguagens e tecnologias:**
