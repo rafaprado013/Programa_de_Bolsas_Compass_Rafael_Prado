@@ -2,9 +2,12 @@
 
 Olá, sou Rafael Nascimento Prado, tenho 21 anos, e seja vindo ao meu perfil :)
 
-<img src="https://github.com/user-attachments/assets/a641818e-b9ad-43a7-834e-74458ceeb857" alt="Minha Foto" width="300"/>
+<img src="https://github.com/user-attachments/assets/200155ef-1ef7-4898-bdb1-32186acd9607" alt="Minha Foto" width="300"/>
 
-##
+
+
+
+
 
 - 🌎 **Localização**: Piraju (SP)
 - 🎓 **Instituição de Ensino**: Faculdade de Tecnologia - FATEC (Ourinhos)
