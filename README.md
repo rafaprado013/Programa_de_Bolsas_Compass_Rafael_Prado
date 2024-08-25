@@ -13,7 +13,7 @@ Olá, sou Rafael Nascimento Prado, tenho 21 anos, e seja vindo ao meu perfil :)
 - 🎓 **Instituição de Ensino**: Faculdade de Tecnologia - FATEC (Ourinhos)
 - 🖥️ **Curso**: Ciência de dados
 - 📆 **Semestre Atual**: 3° semestre
-- 💼 **Experiência**: Auxiliar de tecnologia - Chiptronic, Piraju (SP) (2 anos e 3 meses), Instrutor de Inglês (Aliança América Idiomas, 1 ano)
+- 💼 **Experiência**: Auxiliar de tecnologia - Chiptronic, Piraju (SP) (2 anos e 3 meses), Instrutor de Inglês - Aliança América Idiomas, Homeoffice (1 ano e 3 meses)
 - 🎲 **Hobbies**: Leitura, tocar instrumentos, musculação e capoeira.
 - 🌐 **Idiomas**: Português (Nativo), Inglês (Avançado), Francês (Intermediario) e Espanhol (Básico)
 
