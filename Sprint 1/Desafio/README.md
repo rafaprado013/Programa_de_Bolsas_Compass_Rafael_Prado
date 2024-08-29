@@ -56,7 +56,7 @@
 
 - Nesta fase é necessario novamente renomear o arquivo 'dados_de_vendas$data.csv' para '**backup**-dados-$data.csv', usando o comando *mv* para essa função, e por fim acessa-se a pasta **backup**.
 
-![Etapa 7: Renomeando o arquivo](https://github.com/user-attachments/assets/7989bfd5-ac75-4d1b-b974-514686c168c5)
+![Etapa 7: Renomeando o arquivo](https://github.com/user-attachments/assets/f72c0134-900b-4c78-bdb0-465ffe72ef93)
 
 ##
 
