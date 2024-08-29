@@ -119,7 +119,7 @@ Para a execução é necessario passar ao cron os critérios desejados, podendo 
 
 ##
 
-### Etapa 14 Checando o funcionamento do Crontab
+### Etapa 14: Checando o funcionamento do Crontab
 ![Etapa 14 Checando o funcionamento do Crontab](https://github.com/user-attachments/assets/124c558c-9876-4b8b-a809-31751c9309e2)
 
 - Para verificar o funcionamento do crontab é necessario usar o comando *sudo service cron status*, se mostrar o status 'active (running), escrito em verde, então está funcionando.
