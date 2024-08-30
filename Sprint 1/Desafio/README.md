@@ -1,4 +1,4 @@
-## Etapas do desafio 1
+# Etapas do desafio 1
 
 
 ### Etapa 1: Criação do diretório 'Ecommerce'
@@ -156,6 +156,10 @@ Para a execução é necessario passar ao cron os critérios desejados, podendo 
 
 ##
 
+# Execução do arquivo com o Crontab: Dia 4
+
+- E por fim, no dia de teste 4, assim como nos demais dias, a execução ocorreu perfeitamente, alterando as variáveis (foi adicionada novamente uma nova linha no arquivo csv, como nos outros dias).
+
 ![Execução do arquivo com o Crontab: Dia 4](https://github.com/user-attachments/assets/f96f4811-af6e-477a-9748-e1d7a9ca4e74)
 
-- No dia de teste 4, assim como nos demais dias, a execução ocorreu perfeitamente, alterando as variáveis (foi adicionada novamente uma nova linha no arquivo csv, como nos outros dias).
+
