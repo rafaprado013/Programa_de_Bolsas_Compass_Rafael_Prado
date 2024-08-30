@@ -126,6 +126,10 @@ Para a execução é necessario passar ao cron os critérios desejados, podendo 
 
 ##
 
+## Script do arquivo executável completo:
+![arq_executavel_codigo](https://github.com/user-attachments/assets/e9263b19-3c07-4388-b829-23a79c516074)
+
+##
 
 # Execução do arquivo com o Crontab: Dia 1
 
@@ -137,7 +141,7 @@ Para a execução é necessario passar ao cron os critérios desejados, podendo 
 
 # Execução do arquivo com o Crontab: Dia 2
 
--No dia de teste 2 foi acrescentada uma linha ao final do arquivo com novos dados. O relatório foi gerado com as devidas atualizações, diferindo do primeiro relatório na quantida de itens vendidos, data do ultimo registro e nome do relatório. Outra cópia do backup foi feita e outro relatorio foi gerado devidamente.
+- No dia de teste 2 foi acrescentada uma linha ao final do arquivo com novos dados. O relatório foi gerado com as devidas atualizações, diferindo do primeiro relatório na quantida de itens vendidos, data do ultimo registro e nome do relatório. Outra cópia do backup foi feita e outro relatorio foi gerado devidamente.
  
 ![Execução do arquivo com o Crontab: Dia 2](https://github.com/user-attachments/assets/6378eac3-ecbb-491a-90d3-fd2985ec3488)
 
@@ -145,11 +149,13 @@ Para a execução é necessario passar ao cron os critérios desejados, podendo 
 
 # Execução do arquivo com o Crontab: Dia 3
 
--No dia de teste 3, como nos outros demais, foi gerado um novo relatorio com a data atual e uma nova copia do arquivo de backup. Foi novamente acrescrentada uma nova linha ao final do arquivo, logo, o numero de itens vendidos aumentou em um. A data também atualizou, assim como o nome do arquivo e a data do ultimo registro.
+- No dia de teste 3, como nos outros demais, foi gerado um novo relatorio com a data atual e uma nova copia do arquivo de backup. Foi novamente acrescrentada uma nova linha ao final do arquivo, logo, o numero de itens vendidos aumentou em um. A data também atualizou, assim como o nome do arquivo e a data do ultimo registro.
 
 
 ![Execução do arquivo com o Crontab: Dia 3](https://github.com/user-attachments/assets/a2ff0d2e-19bc-4c31-a675-20c82746a528)
 
----
+##
 
+![Execução do arquivo com o Crontab: Dia 4](https://github.com/user-attachments/assets/f96f4811-af6e-477a-9748-e1d7a9ca4e74)
 
+- No dia de teste 4, assim como nos demais dias, a execução ocorreu perfeitamente, alterando as variáveis (foi adicionada novamente uma nova linha no arquivo csv, como nos outros dias).
