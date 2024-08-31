@@ -65,7 +65,7 @@
 - Aqui definimos as variáveis que serão úteis para exibir a **data do sistema operacional**, **registro da primeira data**, **registro da ultima data** e a **quantidade de itens vendidos** no relatório.
 - Primeiro é definida a variável **data_sistema_operacional', a qual guarda a data do sistema no formato ANO, MES, DIA, HORA, MINUTO'.
 - Após isso é é definida a variável 'primeiro_registro_data', a qual exibe a data do primeiro registro do arquivo 'backup-dados-data.csv'. Segue os comandos usados e suas respectivas funções:
-  - head -n 2 backup-dados-$data.csv: o *head* as 'pega' as linhas do arquivo de cima para baixo, e o -n +2 indica que queremos a data da linha n° 2, pois na primeira encontra-se o cabeçalho.
+  - head -n 2 backup-dados-$data.csv: o *head* acessa as linhas do arquivo de cima para baixo, e o -n +2 indica que queremos a data da linha n° 2, pois na primeira encontra-se o cabeçalho.
   - cut -d ',' -f 5: o *cut -d ','* indica que estamos navegando entre as colunas com o separador ',', e o *f-5* indica que queremos a coluna 5.
  - Depois é definida a variável 'ultimo registro_data', a qual a função é semelhante a variável acima, sendo esta usada para guardar O ULTIMO registro. A unica mudança é no uso do comando *tail*, que interpreta o arquivo de baixo pra cima. Para ele é usado a flag -n 1, pois queremos a primeira linha de baixo pra cima (a ultima).
  - A proxima variável é 'qtd_itens_diferentes_vendidos', a qual retorna o numero de itens diferentes vendidos na tabela. Primero foi usado o *cut -d ',' -f2* para acessar a segunda coluna do arquivo, após isso foi usado o *tail -n 2* para acessar da ultima linha até a segunda; o *uniq* para remover duplicatas, e o *wc -l* para contar o numero de linhas.
