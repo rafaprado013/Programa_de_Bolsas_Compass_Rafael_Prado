@@ -13,7 +13,7 @@ Nesta Sprint, tivemos um aprendizado detalhadado do sistema operacional Linux, d
     - *ls* - para exibir conteúdo dentro dos diretórios
     - *cat* - para ler um arquivo
     - *chmod* - para alterar permissões
-    - *zir -r* - para compactar um arquivo em ZIP
+    - *zip -r* - para compactar um arquivo em ZIP
     - *cp* - para copiar arquivos e diretórios
     - *mv* - para mover arquivos e diretórios / renomea-los
     - *echo* - exibir mensagens
