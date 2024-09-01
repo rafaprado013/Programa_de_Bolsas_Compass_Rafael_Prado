@@ -158,8 +158,39 @@ Para a execução é necessario passar ao cron os critérios desejados, podendo 
 
 # Execução do arquivo com o Crontab: Dia 4
 
-- E por fim, no dia de teste 4, assim como nos demais dias, a execução ocorreu perfeitamente, alterando as variáveis (foi adicionada novamente uma nova linha no arquivo csv, como nos outros dias).
+- No dia de teste 4, assim como nos demais dias, a execução ocorreu perfeitamente, alterando as variáveis (foi adicionada novamente uma nova linha no arquivo csv, como nos outros dias).
 
 ![Execução do arquivo com o Crontab: Dia 4](https://github.com/user-attachments/assets/f96f4811-af6e-477a-9748-e1d7a9ca4e74)
 
+##
+
+## Criação do arquivo executavel "Consolidador de processamento de vendas"
+
+- Neste passo, foi criado o arquivo executável 'consolidador_de_processamento_de_vendas.sh' com nano.
+
+![Criacção do arquivo "consolidador de processamento de vendas"](https://github.com/user-attachments/assets/bee656f7-5434-4a8f-b623-23f61e150701)
+
+##
+
+# Script do consolidador
+
+- Nesta etapa foi feito o script do consolidador. Para isso foi necessário acessar o diretório 'vendas' e depois 'backup', para enfim ser criado o arquivo "relatorio_final.txt". O comando *cat >>* foi usado para exibir a mensagem de cada relatório em particular dentro do arquivo relatorio_final.txt, e também por questão de estética foi criada uma variável chamada 'pontilhado', a qual junto ao 'echo' exibe um traço no relatório apenas para separar os relatórios um do outro e otimizar a visualização.
+
+![passo_16_script_consolidador_de_processamento_de_vendas](https://github.com/user-attachments/assets/15b0802b-08a7-424e-b6fd-4d2c7988b002)
+
+##
+
+# Execucao do consolidador
+
+-Aqui foi feita a execução do consolidador atraves do comando './' e foi verificado através do comando *tree* que a execução ocorreu perfeitamente, sendo assim o arquivo 'relatorio_final.txt' criado dentro do diretório 'backup'.
+
+![passo_17_execucao_consolidador_de_processamento_de_vendas](https://github.com/user-attachments/assets/cb342b8a-b77a-44d5-ad1d-caf8d91ce920)
+
+##
+
+# Leitura do relatório final
+
+- Por fim, nota-se que o relatóriio final foi executado corretamente, exibindo as informações dos quatro relatórios gerados ao longo dos dias. 
+
+![passo_18_leitura_relatorio_final](https://github.com/user-attachments/assets/710ea44e-6925-4746-ac2c-05bbd7ba3fad)
 
