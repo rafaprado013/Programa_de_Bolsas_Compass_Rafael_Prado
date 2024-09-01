@@ -194,3 +194,9 @@ Para a execução é necessario passar ao cron os critérios desejados, podendo 
 
 ![passo_18_leitura_relatorio_final](https://github.com/user-attachments/assets/710ea44e-6925-4746-ac2c-05bbd7ba3fad)
 
+##
+  - OBS: o diretório "vendas" e os executáveis "consolidador_de_processamento_de_arquivos.sh" e "processamento_de_vendas.sh" foram inicialmente criados no diretório do usuário, e por fim movidos para dentro do diretório "ecommerce".
+
+![organizacao_final](https://github.com/user-attachments/assets/d944d277-c65e-4e93-80f5-c1fe878d839a)
+
+
