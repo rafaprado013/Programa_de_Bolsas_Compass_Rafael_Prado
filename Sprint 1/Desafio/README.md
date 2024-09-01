@@ -180,7 +180,7 @@ Para a execução é necessario passar ao cron os critérios desejados, podendo 
 
 ##
 
-# Execucao do consolidador
+# Execução do consolidador
 
 -Aqui foi feita a execução do consolidador atraves do comando './' e foi verificado através do comando *tree* que a execução ocorreu perfeitamente, sendo assim o arquivo 'relatorio_final.txt' criado dentro do diretório 'backup'.
 
