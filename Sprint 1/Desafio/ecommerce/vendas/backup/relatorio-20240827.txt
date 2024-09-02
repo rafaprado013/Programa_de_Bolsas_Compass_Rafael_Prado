@@ -1,0 +1,14 @@
+Data do sistema operacional: 20240827 15H:27M
+Data do primeiro registro: data 01/01/2023
+Data do ultimo registro: 31/01/2023
+Quantidade total de itens diferentes vendidos: 66
+id,produto,quantidade,preço,data
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
