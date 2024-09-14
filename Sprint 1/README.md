@@ -6,31 +6,30 @@ Nesta Sprint, tivemos um aprendizado detalhadado da linguagem SQL, em adicional,
 
 ### CURSO 1: SQL para Análise de Dados do básico ao avançado
 - O curso foi ministrado pela instrutora Midori Toyota. O curso forneceu muitas das 'ferramentas' necessárias para a realização do desafio da Sprint 1, porém, também teve de ser feita certa pesquisa à parte para a devida conclusão do projeto, no youtube e outras plataformas. Segue abaixo os principais comandos aprendidos durante a Sprint 2 em SQL:
-
-  - **Aprendidos no curso:**
-- *SELECT - Seleciona dados de uma tabela.*
-- *FROM - Define a tabela de onde os dados serão extraídos.*
-- *DISTINCT - Remove duplicatas nos resultados.*
-- *WHERE - Filtra os resultados com base em uma condição.*
-- *ORDER BY - Ordena os resultados por uma ou mais colunas.*
-- *LIMIT - Limita o número de registros retornados.*
-- *OPERADORES*
-  - *OPERADORES ARITMÉTICOS - Realizam operações matemáticas.*
-  - *OPERADORES DE COMPARAÇÃO - Comparam valores.*
-  - *OPERADORES LÓGICOS - Combinação de condições.*
-- *FUNÇÕES AGREGADORAS - Executam cálculos em múltiplos valores (SUM, AVG, etc.).*
-- *JOINS - Combina dados de duas ou mais tabelas.*
-- *UNIONS - Combina os resultados de múltiplas consultas.*
-- *SUBQUERIES - Consultas dentro de outras consultas.*
-- *TRATAMENTO DE DADOS - Manipula e formata dados (TRIM, CONCAT, etc.).*
-- *PRIMARY KEY - Define uma coluna como identificador único.*
-- *FOREIGN KEY - Estabelece um vínculo entre duas tabelas.*
-- *REPLACE OR REPLACE INTO - Substitui ou insere novos registros.*
-- *CREATE VIEW - cria um 'dimensão (view)*
+  
+    - *SELECT - Seleciona dados de uma tabela.*
+    - *FROM - Define a tabela de onde os dados serão extraídos.*
+    - *DISTINCT - Remove duplicatas nos resultados.*
+    - *WHERE - Filtra os resultados com base em uma condição.*
+    - *ORDER BY - Ordena os resultados por uma ou mais colunas.*
+    - *LIMIT - Limita o número de registros retornados.*
+    - *OPERADORES*
+      - *OPERADORES ARITMÉTICOS - Realizam operações matemáticas.*
+      - *OPERADORES DE COMPARAÇÃO - Comparam valores.*
+      - *OPERADORES LÓGICOS - Combinação de condições.*
+    - *FUNÇÕES AGREGADORAS - Executam cálculos em múltiplos valores (SUM, AVG, etc.).*
+    - *JOINS - Combina dados de duas ou mais tabelas.*
+    - *UNIONS - Combina os resultados de múltiplas consultas.*
+    - *SUBQUERIES - Consultas dentro de outras consultas.*
+    - *TRATAMENTO DE DADOS - Manipula e formata dados (TRIM, CONCAT, etc.).*
+    - *PRIMARY KEY - Define uma coluna como identificador único.*
+    - *FOREIGN KEY - Estabelece um vínculo entre duas tabelas.*
+    - *REPLACE OR REPLACE INTO - Substitui ou insere novos registros.*
+    - *CREATE VIEW - cria um 'dimensão (view)*
   
 ### CURSO 2: AWS sales accreditation (Business)
 
-
+- No curso AWS sales accreditation (Business) da AWS, aprendi sobre conceitos de nuvem e AWS, valor comercial da nuvem, como lidar com objeções a nuvem e como fazer uma venda conjunta com a AWS. É um curso importante, principalmente porque nos ensina a responder a pergunta "Por que aderir a nuvem e a AWS?"
 
 # Evidências
 
@@ -47,24 +46,23 @@ Nesta Sprint, tivemos um aprendizado detalhadado da linguagem SQL, em adicional,
 ### Diagrama:
 ![diagrama_modelagem_dimensional](https://github.com/user-attachments/assets/c1d2bfdb-4676-4cdf-9427-59f838f4f327)
 
+- No diagrama foi usado o modelo Star Schema. Resolvi adotar esse modelo em detrimento do Snowflake Schema porque sua estrutura é mais simples, isso o torna mais compreensível. Apesar de o modelo Star Schema apresentar redundancias, essa redundância pode facilitar o desempenho das consultas.
+
 ##
 # Exercícios:
-- Segue a evidencia de três dos exercícios realizados no curso de SQL:
-
+- Segue a evidencia de 3 dos exercícios realizados no curso de SQL:
 
   ### *EXERCÍCIO 04:*
-  
   ![image](https://github.com/user-attachments/assets/d8327537-b994-444c-8930-0c621fa4aee7)
 
 
   ### *EXERCÍCIO 13:*
-
   ![image](https://github.com/user-attachments/assets/1b8a7b4c-d3ba-490d-a15c-993b3611e442)
 
 ### *EXERCÍCIO 14:*
   ![image](https://github.com/user-attachments/assets/fb32dc21-a345-497f-8c8d-ee6d7eb23b2e)
 
-  OBS: Foram os desafios mais "desafiadores"!
+  **OBS: Foram os desafios mais "desafiadores"!**
 
 # Certificados
 
