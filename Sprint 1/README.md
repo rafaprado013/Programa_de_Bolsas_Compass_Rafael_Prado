@@ -1,4 +1,4 @@
-![Certificado_AWS_sales_accreditation_business](https://github.com/user-attachments/assets/460168a8-a236-42d9-8472-d35dab3e6365)## RESUMO
+## RESUMO
 
 Nesta Sprint, tivemos um aprendizado detalhadado da linguagem SQL, em adicional, pude usar ferramentas como DBeaver e SQLite, e também foi feito o curso "AWS sales accreditation (Business)" da AWS. Foram cursos de grande relevancia para mim, em especial o curso "SQL para Análise de Dados: do básico ao avançado", pois antes do curso eu detinha de um previo conhecimento bem limitado sobre SQL, foi muito bom poder me aprofundar. Gostei muito da segunda Sprint e de todo o aprendizado que ela me proporcionou.
 
