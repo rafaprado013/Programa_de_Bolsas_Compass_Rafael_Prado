@@ -31,7 +31,7 @@ Nesta Sprint, tivemos um aprendizado detalhadado da linguagem SQL, em adicional,
 
 - No curso AWS sales accreditation (Business) da AWS, aprendi sobre conceitos de nuvem e AWS, valor comercial da nuvem, como lidar com objeções a nuvem e como fazer uma venda conjunta com a AWS. É um curso importante, principalmente porque nos ensina a responder a pergunta "Por que aderir a nuvem e a AWS?"
 
-# Evidências
+## Evidências
 
 *É importante dar destaque à imagem de evidência do **SCRIPT DA MODELAGEM DIMENSIONAL PÓS NORMALIZAÇÃO, seu **RESULTADO PÓS-EXECUÇÃO* e seu *DIAGRAMA* na devida ordem:**
 
@@ -49,7 +49,7 @@ Nesta Sprint, tivemos um aprendizado detalhadado da linguagem SQL, em adicional,
 - No diagrama foi usado o modelo Star Schema. Resolvi adotar esse modelo em detrimento do Snowflake Schema porque sua estrutura é mais simples, isso o torna mais compreensível. Apesar de o modelo Star Schema apresentar redundancias, essa redundância pode facilitar o desempenho das consultas.
 
 ##
-# Exercícios:
+## Exercícios:
 - Segue a evidencia de 3 dos exercícios realizados no curso de SQL:
 
   ### EXERCÍCIO 04:
@@ -64,6 +64,6 @@ Nesta Sprint, tivemos um aprendizado detalhadado da linguagem SQL, em adicional,
 
   *OBS: Foram os desafios mais "desafiadores"!*
 
-# Certificados
+## Certificados
 
 ![Certificado_AWS_sales_accreditation_business](https://github.com/user-attachments/assets/4c4ab626-2de1-418c-b54e-6a273619f5a5)
