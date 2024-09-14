@@ -27,7 +27,7 @@ Nesta Sprint, tivemos um aprendizado detalhadado da linguagem SQL, em adicional,
     - REPLACE OR REPLACE INTO - Substitui ou insere novos registros.
     - CREATE VIEW - cria um 'dimensão (view)
   
-### CURSO 2: AWS sales accreditation (Business)
+### CURSO 2: AWS Sales accreditation (Business)
 
 - No curso AWS sales accreditation (Business) da AWS, aprendi sobre conceitos de nuvem e AWS, valor comercial da nuvem, como lidar com objeções a nuvem e como fazer uma venda conjunta com a AWS. É um curso importante, principalmente porque nos ensina a responder a pergunta "Por que aderir a nuvem e a AWS?"
 
