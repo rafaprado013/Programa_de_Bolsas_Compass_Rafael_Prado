@@ -50,7 +50,7 @@ Nesta Sprint, tivemos um aprendizado detalhadado da linguagem SQL, em adicional,
 
 ##
 ## Exercícios:
-- Segue a evidencia de 3 dos exercícios realizados no curso de SQL:
+- Segue a evidencia de 3 dos 18 exercícios realizados no curso de SQL:
 
   ### EXERCÍCIO 04:
   ![image](https://github.com/user-attachments/assets/d8327537-b994-444c-8930-0c621fa4aee7)
