@@ -90,7 +90,6 @@ O diagrama foi feito atrávés do site dbdiagram.io
      - dim_clientes
      - tb_clientes
      - dim_tempo
-     - 
 --- 
 
 Segue abaixo o Script para a criação das dimensões:
