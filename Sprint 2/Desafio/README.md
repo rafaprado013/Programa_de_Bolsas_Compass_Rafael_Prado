@@ -1,8 +1,5 @@
 # Etapas do Desafio 2
 
-
-![image](https://github.com/user-attachments/assets/f9e8646e-136a-4fc6-b291-94c6b0f5e2e7)
-
 ### Etapa 1: Normalização
 
 - Nesta etapa, a normalização foi feita através da criação de tabelas, com o intuito de deixar cada tipo de dado em uma tabela, pois na tabela locação na sua forma bruta (que foi renomeada como tb_locacao2) haviam informações sobre varios 'objetos' em uma só tabela. E para a realização da normalização, a tb_locacao2 foi repartida nas seguintes tabelas:
