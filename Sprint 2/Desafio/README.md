@@ -12,12 +12,128 @@
      - tb_locacao
 
 Cada uma com suas devidas informações dentro de si.
+---
 
-![01_normalizacao_parte_1](https://github.com/user-attachments/assets/e13cc0cd-4527-4d23-befd-8a67f024dade)
+### Segue abaixo o script da normalização:
 
-![01_normalizacao_parte_2](https://github.com/user-attachments/assets/ecda6dcf-fd55-427d-827b-ceb9f2f3e305)
+```SQL
 
-![01_normalizacao_parte_3](https://github.com/user-attachments/assets/1bb246cd-1d5a-451c-97eb-00a64eb93280)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-- Criação tb_localizacao
+
+CREATE TABLE tb_localizacao (
+    idLocalizacao INTEGER PRIMARY KEY AUTOINCREMENT,
+    cidadeCliente VARCHAR(40),
+    estadoCliente VARCHAR(40),
+    paisCliente VARCHAR(40)
+);
+
+INSERT OR REPLACE INTO tb_localizacao(cidadeCliente, estadoCliente, paisCliente)
+SELECT DISTINCT cidadeCliente, estadoCliente, paisCliente
+FROM tb_locacao2;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-- Criação tb_marcaCarro
+
+CREATE TABLE tb_marcaCarro(
+    idmarcaCarro INTEGER PRIMARY KEY AUTOINCREMENT,
+    marcaCarro VARCHAR(40)
+);
+
+INSERT OR REPLACE INTO tb_marcaCarro(marcaCarro)
+SELECT DISTINCT marcaCarro
+FROM tb_locacao2;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-- Criação tb_clientes
+
+CREATE TABLE tb_clientes (
+    idClientes INTEGER PRIMARY KEY,
+    nomeCliente VARCHAR(100),
+    idLocalizacao VARCHAR(40),
+    FOREIGN KEY (idLocalizacao) REFERENCES tb_localizacao(idLocalizacao)
+);
+
+INSERT OR REPLACE INTO tb_clientes(idClientes, nomeCliente, idLocalizacao)
+SELECT idCliente, nomeCliente, idLocalizacao
+FROM tb_locacao2 AS tbl2
+LEFT JOIN tb_localizacao AS idl
+    ON idl.cidadeCliente = tbl2.cidadeCliente;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-- Criação tb_combustivel
+
+CREATE TABLE tb_combustivel (
+    idCombustivel INTEGER PRIMARY KEY,
+    tipoCombustivel TIME
+);
+
+INSERT OR REPLACE INTO tb_combustivel(idCombustivel, tipoCombustivel)
+SELECT idCombustivel, tipoCombustivel
+FROM tb_locacao2;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-- Criação tb_carros
+
+CREATE TABLE tb_carros (
+    idCarro INTEGER PRIMARY KEY,
+    kmCarro INT,
+    classiCarro VARCHAR(50),
+    modeloCarro VARCHAR(80),
+    anoCarro INT,
+    idCombustivel INT,
+    idmarcaCarro INT,
+    FOREIGN KEY (idCombustivel) REFERENCES tb_combustivel(idCombustivel),
+    FOREIGN KEY (idmarcaCarro) REFERENCES tb_marcaCarro(idmarcaCarro)
+);
+
+INSERT OR REPLACE INTO tb_carros(idCarro, classiCarro, modeloCarro, anoCarro, kmCarro, idCombustivel, idmarcaCarro)
+SELECT idCarro, classiCarro, modeloCarro, anoCarro, kmCarro, idCombustivel, tbmc.idmarcaCarro
+FROM tb_locacao2 AS tbl2
+RIGHT JOIN tb_marcaCarro AS tbmc
+    ON tbmc.marcaCarro = tbl2.marcaCarro;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-- Criação tb_vendedor
+
+CREATE TABLE tb_vendedor (
+    idVendedor INTEGER PRIMARY KEY,
+    nomeVendedor VARCHAR(15),
+    sexoVendedor SMALLINT,
+    estadoVendedor VARCHAR(40)
+);
+
+INSERT OR REPLACE INTO tb_vendedor(idVendedor, nomeVendedor, sexoVendedor, estadoVendedor)
+SELECT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor
+FROM tb_locacao2;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-- Criação tb_locacao
+
+CREATE TABLE tb_locacao (
+    idLocacao INTEGER PRIMARY KEY,
+    idCliente INT,
+    idCarro INT,
+    idVendedor INT,
+    dataLocacao DATETIME,
+    horaLocacao TIME,
+    qtdDiaria INT,
+    vlrDiaria DECIMAL(18,2),
+    dataEntrega DATE,
+    horaEntrega TIME,
+    FOREIGN KEY (idCliente) REFERENCES tb_clientes(idClientes),
+    FOREIGN KEY (idCarro) REFERENCES tb_carros(idCarro),
+    FOREIGN KEY (idVendedor) REFERENCES tb_vendedor(idVendedor)
+);
+
+INSERT OR REPLACE INTO tb_locacao(idLocacao, idCliente, idCarro, idVendedor, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega)
+SELECT idLocacao, idCliente, idCarro, idVendedor, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega
+FROM tb_locacao2;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+DROP TABLE tb_locacao2 
+````
 
 ---
 
@@ -92,11 +208,105 @@ O diagrama foi feito atrávés do site dbdiagram.io
      - dim_tempo
 --- 
 
-Segue abaixo o Script para a criação das dimensões:
+### Segue abaixo o script da Dimensionalização:
+``` SQL
 
-  ![03_dimensionalizacao_parte_1](https://github.com/user-attachments/assets/94eb05dc-909e-49a8-9f55-343b2788d830)
-  
-![03_dimensionalizacao_parte_2](https://github.com/user-attachments/assets/029b1bed-1484-45e3-afe6-5a265898339c)
+SELECT * FROM tb_carros car;
+
+SELECT * FROM tb_clientes cli;
+
+SELECT * FROM tb_combustivel comb;
+
+SELECT * FROM tb_localizacao;
+
+SELECT * FROM tb_marcaCarro tmc 
+
+SELECT * FROM tb_vendedor vend;
+
+SELECT * FROM tb_locacao loc;
+
+-- Criando o DW
+   
+-- Dimensão carros
+
+create view dim_carros as
+select  idCarro as id_carros,
+		kmCarro as km_carro,
+		classiCarro as classi_carro,
+		marcaCarro as marca_carro,
+		modeloCarro as modelo_carro,
+		anoCarro as ano_carro,
+		tbc.idCombustivel as id_combustivel,
+		tipoCombustivel as tipo_combustivel
+		
+from tb_carros as car
+left join tb_marcaCarro as tbmc
+	ON tbmc.idmarcaCarro = car.idmarcaCarro
+LEFT JOIN tb_combustivel AS tbc
+	ON tbc.idCombustivel = car.idCombustivel
+
+-- Dimensão clientes
+
+create view dim_clientes as
+select  idClientes as id_clientes,
+        nomeCliente as nome_cliente,
+        cidadeCliente as cidade_cliente,
+        estadoCliente as estado_cliente,
+        paisCliente as pais_cliente
+   from tb_clientes AS cli
+   LEFT JOIN tb_localizacao AS lcc
+   	ON lcc.idLocalizacao = cli.idLocalizacao
+
+-- Dimensão vendedor
+
+create view dim_vendedor as
+select  idVendedor as id_vendedor,
+        nomeVendedor as nome_vendedor,
+        sexoVendedor as sexo_vendedor,
+        estadoVendedor as estado_vendedor
+    from tb_vendedor vend;
+
+-- Fato locacao
+
+create view fato_locacao as
+select  idLocacao  as id_locacao,
+        idCliente as id_cliente,
+        idCarro   as id_carro,
+        idVendedor as id_vendedor,
+        dataLocacao as data_locacao,
+        horaLocacao as hora_locacao,
+        qtdDiaria as qtd_diaria,
+        vlrDiaria as vlr_diaria,
+        dataEntrega as data_entrega,
+        horaEntrega as hora_entrega
+FROM tb_locacao AS tbloc;
+LEFT JOIN tb_carros AS tbcar
+	ON tbcar.idCarro = tbloc.id_Carro
+
+	-- Dimensão tempo
+
+CREATE VIEW dim_tempo AS
+SELECT DISTINCT
+    dataLocacao AS dataloc,
+    substr(dataLocacao, 1, 4) AS ano,     
+    substr(dataLocacao, 5, 2) AS mes,      
+    substr(dataLocacao, 7, 2) AS dia       
+FROM tb_locacao AS tbloc
+WHERE dataLocacao IS NOT NULL;
+
+-----------------------------------------------------------
+-- Consultas ao DW
+
+SELECT * FROM fato_locacao as fatoloc;  
+   
+SELECT * FROM dim_carros as dimcarros; 
+
+SELECT * FROM dim_clientes as dimcli; 
+
+SELECT * FROM dim_vendedor as dimvend; 
+
+SELECT * FROM dim_tempo AS dimtempo;
+```
 
 A criação das 4 dimensões tambem seguiu determinado padrão. A título de exemplo será usada criação da dimensão "fato_locacao" O passo a passo utilzado foi o descrito abaixo:
 
