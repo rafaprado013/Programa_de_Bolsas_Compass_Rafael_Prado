@@ -1,6 +1,6 @@
 # Apresentação
 
-Olá, sou Rafael Nascimento Prado, tenho 21 anos, e seja vindo ao meu perfil :)
+Olá, sou Rafael Nascimento Prado, tenho 22 anos, e seja vindo ao meu perfil :)
 
 <img src="https://github.com/user-attachments/assets/200155ef-1ef7-4898-bdb1-32186acd9607" alt="Minha Foto" width="300"/>
 
@@ -19,13 +19,33 @@ Olá, sou Rafael Nascimento Prado, tenho 21 anos, e seja vindo ao meu perfil :)
 
 ##
   
-**Conteudos que estou aprendendo:**
+### **Conteudos que estou aprendendo:**
+
+##### SPRINT 1:
+- Métodos ágeis
 - Linux para Desenvolvedores (c/ terminal, Shell, Apache e +);
-- Git e GitHub do básico ao avançado (c/ gist e GitHub Pages).
+- Git e GitHub do básico ao avançado (c/ gist e GitHub Pages);
+---
+##### SPRINT 2:
+- SQL para Análise de Dados: do Básico ao Avançado;
+- AWS Partner: Sales (Curso)
+---
+##### SPRINT 3:
+- Python 3 - Curso do básico ao avançado
+- AWS Partner: Economias na núvem AWS
 
 ##
 **Sprints**:
 - [Sprint 1](https://github.com/rafaprado013/Programa_de_Bolsas_Compass_Rafael_Prado/tree/main/Sprint%201)
+- [Sprint 2](https://github.com/rafaprado013/Programa_de_Bolsas_Compass_Rafael_Prado/tree/main/Sprint%202)
+- [Sprint 3](https://github.com/rafaprado013/Programa_de_Bolsas_Compass_Rafael_Prado/tree/main/Sprint%203)
+- [Sprint 4](https://github.com/rafaprado013/Programa_de_Bolsas_Compass_Rafael_Prado/tree/main/Sprint%204)
+- [Sprint 5](https://github.com/rafaprado013/Programa_de_Bolsas_Compass_Rafael_Prado/tree/main/Sprint%205)
+- [Sprint 6](https://github.com/rafaprado013/Programa_de_Bolsas_Compass_Rafael_Prado/tree/main/Sprint%206)
+- [Sprint 7](https://github.com/rafaprado013/Programa_de_Bolsas_Compass_Rafael_Prado/tree/main/Sprint%207)
+- [Sprint 8](https://github.com/rafaprado013/Programa_de_Bolsas_Compass_Rafael_Prado/tree/main/Sprint%208)
+- [Sprint 9](https://github.com/rafaprado013/Programa_de_Bolsas_Compass_Rafael_Prado/tree/main/Sprint%209)
+
 ##
 
 **Linguagens e tecnologias:**
