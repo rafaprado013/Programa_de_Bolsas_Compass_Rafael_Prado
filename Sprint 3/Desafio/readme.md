@@ -14,7 +14,7 @@
   que estava dando erro na filtragem (linha n° 10472). No código abaixo também é feito o tratamento da coluna 'Installs", removendo caracteres inadequados e a transformando em uma coluna numérica, pois estava em formato 'objeto'.
   E por ultimo, é feito a filtragem das 5 primeiras linhas das colunas App e Installs, organizadas por valores do maior para o menor.
 - Após isso, é feita a plotagem do grafico pela biblioteca Matplotlib (plt) - Usando os comandos abaixo, a partir do "plt.figure()"
-- 
+
 ![Passo_3_criando_exibindo_grafico](https://github.com/user-attachments/assets/6d4ed073-b1a9-4d38-9d08-421483ae86f8)
 
 ---
