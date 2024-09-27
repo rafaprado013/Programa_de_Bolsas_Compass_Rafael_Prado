@@ -17,14 +17,11 @@ Nesta Sprint, tivemos um aprendizado aprofundado da linguagem Python, em adicion
 *Nesta sprint será dado destaque a construção e exibição dos dois ultimos graficos feitos (defafio-8) usando as bibliotecas Pandas e Matplotlib*
 ### Histograma: 
 
-
-- possível interpretação:
-
+![Passo_10_histograma](https://github.com/user-attachments/assets/aaa27e0d-a2f6-4b2e-b7ee-6dfa4750cb34)
 
 ### Gráfico de Dispersão: 
 
-- possível interpretação:
-
+![Passo_11_dispersao](https://github.com/user-attachments/assets/3292d81a-f722-4c1b-a821-0e1bdbd1316b)
 
 ##
 ## Exercícios:
@@ -32,13 +29,18 @@ Nesta Sprint, tivemos um aprendizado aprofundado da linguagem Python, em adicion
 
   ### ETAPA 1:
 
+![Etapa_1_desafio](https://github.com/user-attachments/assets/9122f92a-5d42-4b63-b4db-faadae87c6bc)
 
 
   ### ETAPA 2:
 
+![Etapa_2_desafio](https://github.com/user-attachments/assets/3962a8c7-5e90-45e3-8275-4adefc13daa3)
 
- 
+
 - obs: foram feitas no total 5 etapas!
 
 ## Certificados
+
+![image](https://github.com/user-attachments/assets/963598fe-51d4-4b59-839b-0ca23ee3ee28)
+
 
