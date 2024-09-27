@@ -1,0 +1,35 @@
+caminho_do_csv = r'E:\Exercicio_2\actors.csv'
+
+with open(caminho_do_csv, 'r', encoding='utf-8') as arquivo_csv:
+    conteudo = arquivo_csv.readlines()[1:]
+
+contagem_filmes = {}
+
+for linha in conteudo:
+    dados_linha = []
+    campo_atual = ""
+    entre_aspas = False
+
+    for caractere in linha:
+        if caractere == '"':
+            entre_aspas = not entre_aspas
+        elif caractere == ',' and not entre_aspas:
+            dados_linha.append(campo_atual.strip())
+            campo_atual = ""
+        else:
+            campo_atual += caractere
+    dados_linha.append(campo_atual.strip())
+
+    filme_maior_bilheteria = dados_linha[4] 
+    
+  
+    if filme_maior_bilheteria in contagem_filmes:
+        contagem_filmes[filme_maior_bilheteria] += 1
+    else:
+        contagem_filmes[filme_maior_bilheteria] = 1
+
+filmes_ordenados = sorted(contagem_filmes.items(), key=lambda x: (-x[1], x[0]))
+
+with open(r'E:\Exercicio_2\filmes_ordenados.txt', 'w', encoding='utf-8') as arquivo_saida:
+    for filme, quantidade in filmes_ordenados:
+        arquivo_saida.write(f"O filme {filme} aparece {quantidade} vez(es) no dataset\n")

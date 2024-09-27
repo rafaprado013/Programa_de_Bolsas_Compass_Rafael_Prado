@@ -1,0 +1,33 @@
+caminho_do_csv = r'E:\Exercicio_2\actors.csv'
+
+with open(caminho_do_csv, 'r', encoding='utf-8') as arquivo_csv:
+    conteudo = arquivo_csv.readlines()[1:]
+
+total_gross = 0
+count = 0
+
+for linha in conteudo:
+    dados_linha = []
+    campo_atual = ""
+    entre_aspas = False
+
+    for caractere in linha:
+        if caractere == '"':
+            entre_aspas = not entre_aspas
+        elif caractere == ',' and not entre_aspas:
+            dados_linha.append(campo_atual.strip())
+            campo_atual = ""
+        else:
+            campo_atual += caractere
+    dados_linha.append(campo_atual.strip())
+
+    try:
+        gross = float(dados_linha[-1].replace(',', ''))
+        total_gross += gross
+        count += 1
+    except ValueError:
+        pass
+
+average_gross = total_gross / count if count != 0 else 0
+
+print(f'Média de receita bruta: {average_gross:.2f} milhões de dólares')

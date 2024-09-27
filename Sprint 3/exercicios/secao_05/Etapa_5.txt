@@ -1,0 +1,61 @@
+caminho_do_csv = r'E:\Exercicio_2\actors.csv'
+
+with open(caminho_do_csv, 'r', encoding='utf-8') as arquivo_csv:
+    conteudo = arquivo_csv.readlines()[1:]
+
+total_receita_bruta = 0
+contagem = 0
+
+for linha in conteudo:
+    dados_linha = []
+    campo_atual = ""
+    entre_aspas = False
+
+    for caractere in linha:
+        if caractere == '"':
+            entre_aspas = not entre_aspas
+        elif caractere == ',' and not entre_aspas:
+            dados_linha.append(campo_atual.strip())
+            campo_atual = ""
+        else:
+            campo_atual += caractere
+    dados_linha.append(campo_atual.strip())
+
+    try:
+        receita_bruta = float(dados_linha[-1].replace(',', ''))
+        total_receita_bruta += receita_bruta
+        contagem += 1
+    except ValueError:
+        pass
+
+media_receita_bruta = total_receita_bruta / contagem if contagem != 0 else 0
+
+print(f'Média de receita bruta: {media_receita_bruta:.2f} milhões de dólares')
+
+atores_receita = []
+
+for linha in conteudo:
+    dados_linha = []
+    campo_atual = ""
+    entre_aspas = False
+
+    for caractere in linha:
+        if caractere == '"':
+            entre_aspas = not entre_aspas
+        elif caractere == ',' and not entre_aspas:
+            dados_linha.append(campo_atual.strip())
+            campo_atual = ""
+        else:
+            campo_atual += caractere
+    dados_linha.append(campo_atual.strip())
+
+    nome_ator = dados_linha[0] 
+    receita_total_bruta = float(dados_linha[1]) 
+    
+    atores_receita.append((nome_ator, receita_total_bruta))
+
+atores_ordenados = sorted(atores_receita, key=lambda x: -x[1])
+
+with open(r'E:\Exercicio_2\atores_ordenados_receita.txt', 'w', encoding='utf-8') as arquivo_saida:
+    for ator, receita in atores_ordenados:
+        arquivo_saida.write(f"{ator} - {receita:.2f} milhões de dólares\n")
