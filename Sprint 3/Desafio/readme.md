@@ -62,23 +62,33 @@ foi exibido numa mensagem com base no número de linhas resultantes.
 
 ### ETAPA 7:
 
+- Nesta etapa foi realizada a consulta dos apps mais caros por categoria. Para isso, primeiramente, foi feito o tratamento da coluna Price, removendo o caractere $ e convertendo-a para numérico. Em seguida, foi realizado o agrupamento por Category para encontrar o preço máximo de cada uma. Utilizando o método
+  idxmax(), foi possível identificar o índice do app mais caro por categoria. Após isso, foram selecionadas as colunas App, Category e Price e ordenadas de forma decrescente com base na coluna Price. Por fim, o resultado foi exibido, contendo os apps mais caros por categoria do dataset.
+
 ![Passo_8_consulta_apps_mais_caros_categ](https://github.com/user-attachments/assets/df95b417-bab7-4122-af88-7416a5d69ce6)
 
 #
 
 ### ETAPA 8:
 
+- Nesta etapa, foi realizada a consulta dos apps com maior número de Reviews da categoria Medicina. Para isso, primeiro, foi feita a filtragem dos aplicativos que possuem a palavra 'Medical' na coluna Genres. Em seguida, tratou-se a coluna Reviews, convertendo-a para numérico, já que estava em formato 'objeto'.
+Depois disso, foi feita a seleção do app com o maior número de Reviews utilizando o método idxmax(). O resultado foi exibido, mostrando o app com maior número de Reviews da categoria Medicina.
+
 ![Passo_9_consulta_app_maior_n_review](https://github.com/user-attachments/assets/56236044-11e4-4dd9-9f03-fe32bd2bfacc)
 
 #
 
-### ETAPA 8:
+### ETAPA 9:
+
+- Nesta etapa foi feito um histograma da distribuição das avaliação da categoria GAME. Para isso, foi feita uma filtragem, selecionando as linhas em que na coluna "category" em que o texto fosse igual a "GAME". E logo após, essa fitlragem foi plotada e exibida em grafico de acordo com frequencia das notas.
 
 ![Passo_10_histograma](https://github.com/user-attachments/assets/728d1829-e672-4c82-a59a-a249959e097a)
 
 #
 
-### ETAPA 8:
+### ETAPA 10:
+
+Aqui foi feito um grafico de dispersão entre instalções e avaliações. Para fazer isso, foi necessário novamente repetir o processo de limpeza da coluna install ja feito anteriormente, caso contrário, dava erro; tambem foi feita a transformação da coluna "rating" para formato numérico. Após isso foram eliminados da tabela os registros que estavam como "NA", e por fim foi plotado o grafico, sendo o mesmo exibido na tela.
 
 ![Passo_11_dispersao](https://github.com/user-attachments/assets/3c9791b7-48c9-43c3-95d5-362a3c3b6faf)
 
