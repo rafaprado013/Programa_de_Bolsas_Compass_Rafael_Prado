@@ -23,7 +23,7 @@
 
 ### ETAPA 3:
 
-Na etapa 3 é feita a criação do grafico de pizza por categorias de apps do dataset por frequencia. Para isso, primeiro é feita a contagem do numero de categorias na coluna 'Category', calculado seu total e enfim o valor é
+- Na etapa 3 é feita a criação do grafico de pizza por categorias de apps do dataset por frequencia. Para isso, primeiro é feita a contagem do numero de categorias na coluna 'Category', calculado seu total e enfim o valor é
 transformado em porcentagem. As porcentagens abaixo de 2,4 são somadas e transformadas na "fatia" chamada "Outros", em verde, enquanto as porcentagens maiores que este valor são exibidas normalmente como fatias individuais.
 - Após isso, é feita a plotagem do grafico.
 
@@ -43,7 +43,7 @@ Por fim, é feita a seleção das colunas "App" e "Price", organizadas por valor
 
 ### ETAPA 5:
 
--Nesta etapa, foi realizada a contagem de apps com classificação "Mature 17+" no dataset. Para isso, utilizou-se uma query que filtra as linhas onde a coluna "Content Rating" possui o valor "Mature 17+", retornando
+- Nesta etapa, foi realizada a contagem de apps com classificação "Mature 17+" no dataset. Para isso, utilizou-se uma query que filtra as linhas onde a coluna "Content Rating" possui o valor "Mature 17+", retornando
 as colunas "App" e "Content Rating". Em seguida, os dados foram agrupados pela coluna "App" e ordenados alfabeticamente para facilitar a visualização. Por fim, o número total de apps classificados como "Mature 17+"
 foi exibido numa mensagem com base no número de linhas resultantes.
 
