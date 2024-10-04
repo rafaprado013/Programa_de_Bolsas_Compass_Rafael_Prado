@@ -57,7 +57,7 @@
 
 ---
 
-#### Segue abaixo o comando usado pada a execução do container e seu teste:
+#### Segue abaixo o comando usado para a execução do container e seu teste:
 
 ![ETAPA_3_DESAFIO_TESTES](https://github.com/user-attachments/assets/66ad8825-3295-4be2-bd4e-b8d0a117d500)
 
