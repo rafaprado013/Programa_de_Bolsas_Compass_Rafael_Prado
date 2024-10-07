@@ -17,7 +17,7 @@
 
 ---
 
-#### Após isso, foi feita a execução do container - abaixo segue-se seu resultado:
+#### Após isso, foi feita a criação do container a partir da imagem - abaixo segue-se seu resultado:
 
 ![ETAPA_1_DESAFIO_EXECUCAO_2](https://github.com/user-attachments/assets/3d7613b5-a3ea-40f2-85e9-6f58cdb5d5bd)
 
