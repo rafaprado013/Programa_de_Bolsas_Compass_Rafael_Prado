@@ -33,6 +33,13 @@ Olá, sou Rafael Nascimento Prado, tenho 22 anos, e seja vindo ao meu perfil :)
 ##### SPRINT 3:
 - Python 3 - Curso do básico ao avançado
 - AWS Partner: Economias na núvem AWS
+---
+##### SPRINT 4:
+- Docker para Desenvolvedores (com Docker Swarm e Kubernetes)
+- Python 3 - Programação Funcional
+- Estatística Descritiva com Python
+- AWS Partner: Accreditation (Technical)
+--- 
 
 ##
 **Sprints**:
