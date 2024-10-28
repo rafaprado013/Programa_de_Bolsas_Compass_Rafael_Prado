@@ -11,9 +11,13 @@ arquivo = baixar_arquivo['Body'].read().decode('utf-8')
 
 df = pd.read_csv(StringIO(arquivo), sep=';')
 
+# Clausula com ao menos 2 operadores logicos
+
 
 def filtrar_pacientes_masculinos_mais_60(df):
     return df[(df['SEXO'] == 'M') & (df['IDADE'] > 60)]
+
+# Duas funções de agregação
 
 
 def agregar_pacientes_por_municipio(df):
@@ -22,16 +26,22 @@ def agregar_pacientes_por_municipio(df):
         idade_media=('IDADE', 'mean')
     ).reset_index()
 
+# Função condicional
+
 
 def adicionar_coluna_comorbidade(df):
     df['TEM_COMORBIDADE'] = df['COMORBIDADE'].apply(
         lambda x: 'Sim' if pd.notna(x) else 'Não')
     return df
 
+# Função de conversão
+
 
 def converter_idade_para_inteiro(df):
     df['IDADE'] = df['IDADE'].astype(int)
     return df
+
+# Função de data
 
 
 def converter_data_obito_e_extrair_ano(df):
@@ -39,12 +49,15 @@ def converter_data_obito_e_extrair_ano(df):
     df['ANO_OBITO'] = df['DATA_OBITO'].dt.year
     return df
 
+# função de string
+
 
 def transformar_municipios_maiusculas(df):
     df['MUNICIPIO_RESIDENCIA'] = df['MUNICIPIO_RESIDENCIA'].str.upper()
     return df
 
 
+# Aplicando Funções
 df_filtrado = filtrar_pacientes_masculinos_mais_60(df)
 df_agg = agregar_pacientes_por_municipio(df)
 df = adicionar_coluna_comorbidade(df)
