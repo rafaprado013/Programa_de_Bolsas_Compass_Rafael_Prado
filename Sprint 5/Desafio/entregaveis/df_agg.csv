@@ -1,0 +1,406 @@
+MUNICIPIO_RESIDENCIA,total_pacientes,idade_media
+Abadia dos Dourados,1,60.0
+Acaiaca,1,85.0
+Aguanil,2,63.0
+Aimorés,2,80.5
+Alfenas,20,76.05
+Alfredo Vasconcelos,1,27.0
+Almenara,5,75.0
+Alpercata,1,72.0
+Alpinópolis,4,70.5
+Alto Jequitibá,2,73.5
+Alto Rio Doce,1,71.0
+Alvarenga,1,68.0
+Alvorada de Minas,1,82.0
+Além Paraíba,10,64.0
+Andradas,3,76.33333333333333
+Antônio Dias,1,48.0
+Araguari,30,72.2
+Arantina,1,59.0
+Araporã,2,66.5
+Araxá,8,77.125
+Arcos,1,96.0
+Argirita,1,67.0
+Astolfo Dutra,2,76.0
+Ataléia,4,60.75
+Açucena,1,60.0
+Baependi,1,93.0
+Baldim,1,63.0
+Bandeira,1,57.0
+Barbacena,7,58.0
+Bela Vista de Minas,1,73.0
+Belmiro Braga,2,67.0
+Belo Horizonte,552,72.14673913043478
+Belo Oriente,6,71.83333333333333
+Belo Vale,1,95.0
+Betim,89,65.19101123595506
+Boa Esperança,7,74.14285714285714
+Bocaiúva,2,89.5
+Bom Despacho,2,70.5
+Bom Jesus do Galho,5,71.6
+Bom Sucesso,1,74.0
+Bonfim,1,68.0
+Bonfinópolis de Minas,3,87.0
+Borda da Mata,8,80.625
+Borda da mata,1,92.0
+Botelhos,1,50.0
+Brasília de Minas,1,74.0
+Brazópolis,1,87.0
+Braúnas,2,84.0
+Brumadinho,3,62.0
+Bueno Brandão,3,78.33333333333333
+Buenópolis,1,54.0
+Bugre,1,85.0
+Buritis,1,79.0
+Buritizeiro,3,62.666666666666664
+Caeté,1,78.0
+Caiana,1,74.0
+Camanducaia,4,63.0
+Cambuí,5,72.8
+Campanha,2,72.0
+Campestre,1,75.0
+Campina Verde,1,47.0
+Campo Belo,10,68.1
+Campos Altos,2,73.5
+Campos Gerais,2,51.0
+Cana Verde,1,70.0
+Candeias,2,83.0
+Caparaó,2,82.5
+Capitão Enéas,3,58.666666666666664
+Capitólio,2,70.5
+Caranaíba,1,85.0
+Carandaí,3,63.333333333333336
+Carangola,4,72.0
+Caratinga,18,62.0
+Caraí,1,63.0
+Careaçu,2,87.0
+Carlos Chagas,3,89.66666666666667
+Carmo Do Paranaíba,1,69.0
+Carmo do Cajuru,3,78.33333333333333
+Carmo do Paranaíba,2,79.0
+Carmo do Rio Claro,2,68.5
+Carmópolis De Minas,1,58.0
+Carmópolis de Minas,3,80.33333333333333
+Cascalho Rico,1,55.0
+Cataguases,14,72.14285714285714
+Caxambu,1,81.0
+Central de Minas,2,78.5
+Centralina,2,74.5
+Cláudio,2,73.0
+Comendador Gomes,1,92.0
+Conceição da Aparecida,1,70.0
+Conceição das Alagoas,10,71.8
+Conceição do Mato Dentro,1,59.0
+Conceição dos Ouros,1,56.0
+Congonhal,1,76.0
+Congonhas,4,64.0
+Conquista,1,89.0
+Conselheiro Lafaiete,2,76.5
+Contagem,163,67.50920245398773
+Cordisburgo,1,52.0
+Corinto,1,67.0
+Coromandel,3,58.0
+Coronel Fabriciano,25,72.0
+Coronel Pacheco,1,79.0
+Crucilândia,1,60.0
+Cuparaque,1,56.0
+Curral de Dentro,1,81.0
+Curvelo,9,72.33333333333333
+Córrego Novo,2,70.0
+Córrego do Bom Jesus,1,80.0
+Datas,1,55.0
+Delfinópolis,1,79.0
+Delta,5,63.8
+Diamantina,1,4.0
+Divino,1,84.0
+Divino das Laranjeiras,1,96.0
+Divinésia,1,84.0
+Divinópolis,20,73.5
+Divisópolis,1,61.0
+Dom Cavati,4,74.75
+Dores Do Indaiá,1,80.0
+Durandé,1,89.0
+Engenheiro Caldas,1,62.0
+Entre Folhas,1,58.0
+Ervália,1,35.0
+Esmeraldas,5,65.8
+Espera Feliz,6,70.16666666666667
+Espinosa,7,77.0
+Estiva,1,48.0
+Estrela Dalva,2,75.0
+Eugenópolis,2,79.5
+Extrema,8,63.375
+Faria Lemos,1,83.0
+Felisburgo,2,58.5
+Fernandes Tourinho,1,85.0
+Fervedouro,1,53.0
+Formiga,10,73.9
+Formoso,1,74.0
+Francisco Sá,2,75.0
+Frei Inocêncio,1,78.0
+Fronteira,1,68.0
+Fruta de Leite,2,65.5
+Frutal,15,71.13333333333334
+Galiléia,1,65.0
+Goiabeira,1,60.0
+Gouveia,1,77.0
+Governador Valadares,107,68.97196261682242
+Grão Mogol,1,92.0
+Guanhães,1,65.0
+Guapé,1,77.0
+Guaraciama,1,64.0
+Guaranésia,5,62.8
+Guaxupé,2,60.5
+Iapu,3,62.0
+Ibiraci,1,83.0
+Ibirité,31,69.16129032258064
+Ibiá,2,74.0
+Igarapé,4,76.5
+Igaratinga,1,76.0
+Ijaci,1,79.0
+Ilicínea,2,69.5
+Imbé de Minas,1,61.0
+Inconfidentes,1,87.0
+Ingaí,3,86.66666666666667
+Inhapim,4,87.75
+Inimutaba,1,86.0
+Ipaba,5,77.8
+Ipanema,2,84.0
+Ipatinga,94,70.12765957446808
+Ipiaçu,1,81.0
+Iraí de Minas,1,76.0
+Itabira,5,66.8
+Itabirinha,2,74.0
+Itabirito,1,68.0
+Itajubá,7,70.0
+Itambacuri,3,77.33333333333333
+Itanhandu,1,61.0
+Itanhomi,1,38.0
+Itaobim,1,76.0
+Itapagipe,2,70.0
+Itapecerica,1,64.0
+Itapeva,7,70.42857142857143
+Itatiaiuçu,3,39.333333333333336
+Itaú de Minas,2,80.0
+Itaúna,3,73.66666666666667
+Itinga,2,76.0
+Ituiutaba,4,65.25
+Iturama,7,59.142857142857146
+Jaboticatubas,4,70.75
+Jacinto,1,47.0
+Jacutinga,4,61.25
+Jaguaraçu,1,84.0
+Janaúba,12,59.416666666666664
+Januária,1,73.0
+Japonvar,1,46.0
+Jeceaba,2,79.5
+Jequitibá,1,74.0
+Jequitinhonha,2,51.0
+Jesuânia,3,47.666666666666664
+Joanésia,1,75.0
+Joaíma,1,84.0
+Jordânia,2,46.5
+João Monlevade,2,78.5
+Juatuba,4,74.0
+Juiz de Fora,110,72.82727272727273
+Juruaia,2,57.5
+Lagoa Dourada,2,83.5
+Lagoa Santa,1,54.0
+Lagoa da Prata,5,65.2
+Lajinha,1,47.0
+Lambari,3,46.666666666666664
+Laranjal,1,75.0
+Lavras,19,68.0
+Leandro Ferreira,1,71.0
+Leopoldina,21,71.71428571428571
+Lima Duarte,5,71.0
+Lontra,1,67.0
+Luz,1,79.0
+Machado,1,68.0
+Manhuaçu,11,72.81818181818181
+Manhumirim,6,67.66666666666667
+Mantena,6,66.66666666666667
+Mar de Espanha,7,71.71428571428571
+Maria da Fé,2,87.0
+Mariana,11,61.09090909090909
+Marliéria,1,65.0
+Martinho Campos,2,69.0
+Martins Soares,4,80.75
+Materlândia,1,80.0
+Mateus Leme,2,58.0
+Matias Barbosa,6,67.0
+Matipó,2,76.0
+Matozinhos,1,92.0
+Medina,3,50.333333333333336
+Mesquita,1,75.0
+Minas Novas,1,76.0
+Mirabela,1,64.0
+Miradouro,2,64.5
+Miraí,1,25.0
+Moema,1,44.0
+Monte Alegre de Minas,5,63.0
+Monte Azul,3,67.66666666666667
+Monte Carmelo,2,88.0
+Monte Sião,3,64.0
+Montes Claros,24,69.0
+Morro da Garça,2,70.5
+Munhoz,2,64.0
+Muriaé,44,69.20454545454545
+Mutum,2,58.0
+Muzambinho,1,85.0
+Mário Campos,4,75.0
+Nanuque,11,73.18181818181819
+Naque,1,51.0
+Nova Lima,3,65.33333333333333
+Nova Módica,1,68.0
+Nova Ponte,4,72.0
+Nova Porteirinha,2,60.5
+Nova Serrana,8,62.625
+Novo Cruzeiro,1,53.0
+Novo Oriente de Minas,2,82.0
+Orizânia,1,56.0
+Ouro Branco,3,68.66666666666667
+Ouro Fino,1,72.0
+Ouro Preto,6,67.66666666666667
+Ouro Verde de Minas,2,68.0
+Outros Estados,31,61.16129032258065
+Palmópolis,1,77.0
+Papagaios,1,78.0
+Paracatu,5,55.6
+Paraisópolis,6,69.33333333333333
+Paraopeba,1,44.0
+Pará de Minas,3,83.66666666666667
+Passa Quatro,2,79.0
+Passos,8,59.125
+Patos de Minas,11,68.54545454545455
+Patrocínio,8,66.25
+Patrocínio do Muriaé,1,100.0
+Pedra Azul,6,78.33333333333333
+Pedrinópolis,1,72.0
+Pedro Leopoldo,5,66.8
+Perdigão,1,57.0
+Perdizes,1,41.0
+Periquito,3,73.33333333333333
+Piedade do Rio Grande,1,62.0
+Piedade dos Gerais,1,61.0
+Pintópolis,1,59.0
+Piracema,1,67.0
+Pirajuba,1,63.0
+Piranga,7,79.57142857142857
+Piranguçu,1,85.0
+Pirapetinga,2,78.0
+Pirapora,2,96.5
+Piumhi,4,77.75
+Planura,3,68.0
+Pompéu,2,67.0
+Ponte Nova,4,67.75
+Ponto dos Volantes,2,51.5
+Porto Firme,1,74.0
+Poté,3,78.33333333333333
+Pouso Alegre,16,72.625
+Poços de Caldas,14,71.92857142857143
+Pratápolis,3,68.33333333333333
+Presidente Juscelino,1,75.0
+Raposos,2,77.5
+Raul Soares,2,78.0
+Recreio,2,72.0
+Resplendor,1,70.0
+Riacho dos Machados,1,89.0
+Ribeirão das Neves,60,65.43333333333334
+Rio Casca,1,73.0
+Rio Espera,1,29.0
+Rio Manso,3,81.66666666666667
+Rio Novo,2,60.0
+Rio Paranaíba,3,75.0
+Rio Pardo de Minas,1,72.0
+Rio Piracicaba,1,38.0
+Rio Pomba,1,75.0
+Rio do Prado,1,59.0
+Rochedo de Minas,1,82.0
+Rodeiro,1,73.0
+Rubim,1,84.0
+Sabará,17,72.11764705882354
+Salinas,10,69.5
+Santa Bárbara,3,45.666666666666664
+Santa Cruz de Minas,3,72.33333333333333
+Santa Efigênia de Minas,2,78.0
+Santa Juliana,7,63.285714285714285
+Santa Luzia,18,68.38888888888889
+Santa Margarida,2,75.5
+Santa Maria de Itabira,1,68.0
+Santa Maria do Suaçuí,2,42.0
+Santa Rita De Caldas,1,87.0
+Santa Rita de Jacutinga,1,61.0
+Santa Rita de Minas,1,71.0
+Santa Rita do Sapucaí,1,51.0
+Santa Vitória,1,60.0
+Santana Do Paraíso,1,68.0
+Santana do Deserto,1,59.0
+Santana do Jacaré,1,89.0
+Santana do Paraíso,20,68.05
+Santo Antônio do Amparo,1,66.0
+Santo Antônio do Aventureiro,2,71.5
+Santo Antônio do Jacinto,3,74.0
+Santos Dumont,1,71.0
+Sarzedo,4,57.75
+Senador Firmino,2,76.5
+Senador Modestino Gonçalves,1,70.0
+Serro,1,69.0
+Sete Lagoas,13,72.76923076923077
+Sobrália,1,69.0
+São Domingos das Dores,2,34.5
+São Francisco,6,76.66666666666667
+São Francisco do Glória,1,65.0
+São Geraldo,2,74.0
+São Geraldo da Piedade,1,54.0
+São Geraldo do Baixio,2,85.5
+São Gonçalo do Abaeté,1,63.0
+São Gonçalo do Pará,1,78.0
+São Gonçalo do Rio Abaixo,2,74.5
+São Gotardo,5,68.4
+São Joaquim de Bicas,12,67.83333333333333
+São José da Lapa,5,62.6
+São João Batista do Glória,1,94.0
+São João Del Rei,6,74.0
+São João Evangelista,2,81.5
+São João Nepomuceno,1,62.0
+São João da Ponte,1,57.0
+São João del Rei,2,69.0
+São João do Manhuaçu,1,58.0
+São João do Oriente,3,69.33333333333333
+São Lourenço,2,70.5
+São Pedro do Suaçuí,1,73.0
+São Romão,1,74.0
+São Sebastião Do Paraíso,1,73.0
+São Sebastião do Paraíso,3,76.0
+São Tiago,2,85.5
+São Tomás de Aquino,1,34.0
+Tabuleiro,1,94.0
+Taiobeiras,3,90.33333333333333
+Taquaraçu de Minas,1,87.0
+Tarumirim,3,50.0
+Teófilo Otoni,51,70.56862745098039
+Timóteo,29,75.13793103448276
+Tiradentes,1,62.0
+Toledo,5,71.2
+Tombos,1,58.0
+Três Corações,13,74.07692307692308
+Três Marias,4,66.25
+Três Pontas,4,59.0
+Tupaciguara,5,74.0
+Uberaba,58,68.48275862068965
+Uberlândia,208,69.73557692307692
+Ubá,6,55.666666666666664
+Unaí,13,65.76923076923077
+Urucuia,2,80.5
+Varginha,7,62.285714285714285
+Varjão de Minas,1,70.0
+Varzelândia,2,70.5
+Vermelho Novo,1,64.0
+Veríssimo,1,84.0
+Vespasiano,6,56.666666666666664
+Visconde Do Rio Branco,1,80.0
+Visconde do Rio Branco,4,75.75
+Volta Grande,1,71.0
+Várzea da Palma,3,79.66666666666667
+Águas Formosas,3,74.33333333333333

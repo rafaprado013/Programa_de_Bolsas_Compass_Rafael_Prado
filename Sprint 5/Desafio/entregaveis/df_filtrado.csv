@@ -1,0 +1,1237 @@
+PACIENTE,SEXO,IDADE,MUNICIPIO_RESIDENCIA,DATA_OBITO,COMORBIDADE
+1,M,79,Patos de Minas,2020-03-28,SIM
+3,M,66,Belo Horizonte,2020-03-30,SIM
+5,M,80,Uberlândia,2020-03-30,SIM
+6,M,72,Ouro Fino,2020-03-31,NÃO
+8,M,69,Montes Claros,2020-04-01,NÃO
+12,M,78,Pouso Alegre,2020-04-05,SIM
+14,M,82,Belo Horizonte,2020-04-05,SIM
+16,M,70,Juiz de Fora,2020-04-07,SIM
+18,M,73,Uberaba,2020-04-10,SIM
+21,M,71,Juiz de Fora,2020-03-29,SIM
+23,M,84,Pouso Alegre,2020-04-11,SIM
+24,M,81,Patrocínio,2020-04-11,SIM
+26,M,72,Uberlândia,2020-04-03,NÃO
+27,M,62,Governador Valadares,2020-04-08,SIM
+29,M,78,Piumhi,2020-04-13,SIM
+30,M,64,Uberaba,2020-04-13,SIM
+31,M,68,Bonfim,2020-04-12,SIM
+34,M,69,Belo Horizonte,2020-04-15,SIM
+35,M,68,Nanuque,2020-04-15,SIM
+39,M,67,Poços de Caldas,2020-04-16,SIM
+43,M,84,Cataguases,2020-04-10,SIM
+44,M,72,Uberaba,2020-04-19,SIM
+45,M,75,São Francisco,2020-04-17,SIM
+57,M,95,Belo Vale,2020-04-20,SIM
+60,M,82,Uberlândia,2020-04-23,SIM
+64,M,75,Presidente Juscelino,2020-04-24,SIM
+65,M,81,Ipiaçu,2020-04-23,SIM
+66,M,61,Capitólio,2020-04-24,SIM
+67,M,80,Centralina,2020-04-25,SIM
+69,M,74,São Romão,2020-04-24,NÃO
+70,M,87,Belo Horizonte,2020-04-20,SIM
+73,M,75,São Francisco,2020-04-22,SIM
+74,M,75,Poços de Caldas,2020-04-23,SIM
+76,M,76,Uberlândia,2020-04-24,SIM
+77,M,62,Martinho Campos,2020-04-26,SIM
+78,M,70,Contagem,2020-04-26,SIM
+79,M,89,Belo Horizonte,2020-04-27,NÃO
+83,M,85,Belo Horizonte,2020-04-29,SIM
+84,M,68,Belo Horizonte,2020-04-29,SIM
+86,M,84,Juiz de Fora,2020-04-19,SIM
+88,M,78,Uberaba,2020-04-29,SIM
+90,M,61,Barbacena,2020-05-02,SIM
+92,M,67,Belo Horizonte,2020-05-03,SIM
+94,M,76,Montes Claros,2020-04-29,SIM
+95,M,69,Belo Horizonte,2020-05-02,SIM
+98,M,77,Juiz de Fora,2020-05-03,SIM
+99,M,80,Extrema,2020-05-02,SIM
+104,M,70,Bueno Brandão,2020-05-04,SIM
+106,M,69,Jequitinhonha,2020-05-06,SIM
+108,M,91,Uberlândia,2020-04-30,SIM
+113,M,74,Poços de Caldas,2020-04-13,NÃO
+115,M,72,Juiz de Fora,2020-05-05,NÃO
+116,M,67,Carmo do Cajuru,2020-05-02,SIM
+121,M,82,Manhuaçu,2020-05-03,SIM
+123,M,81,São José da Lapa,2020-05-02,SIM
+124,M,68,Uberlândia,2020-05-11,SIM
+128,M,70,Itambacuri,2020-05-05,SIM
+130,M,81,Juiz de Fora,2020-05-02,SIM
+133,M,65,Sete Lagoas,2020-05-10,SIM
+147,M,68,Itabirito,2020-05-14,SIM
+148,M,75,Juiz de Fora,2020-05-11,SIM
+150,M,80,Alto Jequitibá,2020-05-08,SIM
+152,M,82,Ribeirão das Neves,2020-05-14,SIM
+154,M,73,Belo Horizonte,2020-05-13,SIM
+156,M,64,Cataguases,2020-05-01,SIM
+157,M,69,Lavras,2020-05-13,SIM
+158,M,93,Muriaé,2020-05-12,SIM
+160,M,81,Estrela Dalva,2020-05-15,SIM
+164,M,80,Belo Horizonte,2020-05-07,SIM
+166,M,90,Belo Horizonte,2020-05-17,SIM
+170,M,65,Juiz de Fora,2020-05-11,SIM
+174,M,65,Leopoldina,2020-05-10,SIM
+177,M,62,Belo Horizonte,2020-05-03,SIM
+179,M,79,Juiz de Fora,2020-05-09,SIM
+181,M,67,Frutal,2020-05-05,SIM
+185,M,77,Teófilo Otoni,2020-05-19,SIM
+190,M,64,São Joaquim de Bicas,2020-05-18,SIM
+192,M,76,Belo Horizonte,2020-05-20,SIM
+193,M,93,Belo Horizonte,2020-05-17,SIM
+195,M,72,Contagem,2020-05-17,SIM
+196,M,68,Divinópolis,2020-05-14,SIM
+199,M,67,São Francisco,2020-05-19,Não informado
+206,M,82,Itambacuri,2020-05-10,SIM
+207,M,73,Muriaé,2020-05-18,SIM
+208,M,86,Santa Cruz de Minas,2020-05-21,SIM
+209,M,77,Belo Horizonte,2020-05-21,SIM
+211,M,74,Contagem,2020-05-10,Não informado
+213,M,91,Juiz de Fora,2020-05-08,SIM
+214,M,81,Juiz de Fora,2020-05-16,SIM
+217,M,65,Belo Horizonte,2020-05-21,SIM
+219,M,83,Faria Lemos,2020-05-17,SIM
+221,M,63,Contagem,2020-05-21,SIM
+222,M,62,Governador Valadares,2020-05-16,SIM
+224,M,74,Uberaba,2020-05-22,SIM
+225,M,80,Três Corações,2020-05-15,NÃO
+226,M,63,Betim,2020-05-22,SIM
+228,M,84,Camanducaia,2020-05-23,SIM
+233,M,80,Materlândia,2020-05-22,SIM
+235,M,68,Muriaé,2020-05-25,SIM
+236,M,70,Ipatinga,2020-05-25,SIM
+238,M,84,Nanuque,2020-05-22,SIM
+239,M,77,Teófilo Otoni,2020-05-20,SIM
+242,M,63,Pedra Azul,2020-05-13,SIM
+244,M,62,Mariana,2020-05-21,SIM
+245,M,95,Rio Manso,2020-05-11,Não informado
+253,M,69,Outros Estados,2020-05-02,SIM
+254,M,86,Outros Estados,2020-03-27,SIM
+258,M,76,Uberlândia,2020-05-27,SIM
+261,M,86,Juiz de Fora,2020-05-27,SIM
+263,M,78,São Joaquim de Bicas,2020-05-25,SIM
+266,M,67,Betim,2020-05-28,Não informado
+272,M,90,Uberlândia,2020-05-29,SIM
+274,M,65,Iapu,2020-05-24,SIM
+289,M,74,Paraisópolis,2020-05-29,SIM
+293,M,67,Santa Luzia,2020-05-29,Não informado
+296,M,73,Betim,2020-05-30,Não informado
+298,M,64,Contagem,2020-05-29,SIM
+301,M,80,Carangola,2020-05-28,SIM
+306,M,68,Carangola,2020-05-23,SIM
+313,M,65,Belo Horizonte,2020-05-31,SIM
+317,M,81,Uberlândia,2020-05-29,NÃO
+319,M,89,Uberlândia,2020-05-31,SIM
+325,M,64,Outros Estados,2020-06-03,NÃO
+339,M,92,Ipatinga,2020-06-01,SIM
+340,M,82,Pouso Alegre,2020-06-01,Não informado
+341,M,88,Teófilo Otoni,2020-05-19,SIM
+344,M,73,Varginha,2020-06-02,SIM
+345,M,82,Contagem,2020-06-04,SIM
+347,M,81,Outros Estados,2020-06-02,Não informado
+348,M,77,Caratinga,2020-06-03,SIM
+352,M,61,Juiz de Fora,2020-06-02,SIM
+355,M,76,Juiz de Fora,2020-06-01,SIM
+360,M,72,Santana do Paraíso,2020-06-04,SIM
+366,M,84,Belo Horizonte,2020-05-29,SIM
+368,M,61,Contagem,2020-06-03,SIM
+373,M,88,Muriaé,2020-06-05,Não informado
+380,M,83,Bueno Brandão,2020-06-01,SIM
+381,M,61,Uberlândia,2020-06-06,Não informado
+387,M,61,Poços de Caldas,2020-06-06,NÃO
+389,M,72,Betim,2020-06-07,SIM
+393,M,91,Belo Horizonte,2020-06-04,Não informado
+394,M,69,Belo Horizonte,2020-06-02,SIM
+397,M,79,Carmo do Rio Claro,2020-06-07,SIM
+398,M,65,Betim,2020-06-02,SIM
+399,M,71,Betim,2020-06-08,SIM
+401,M,98,Contagem,2020-06-05,SIM
+403,M,64,Ipatinga,2020-06-07,SIM
+405,M,76,Muriaé,2020-05-23,SIM
+408,M,65,São Francisco do Glória,2020-06-07,SIM
+409,M,71,Leopoldina,2020-05-24,SIM
+410,M,68,Raposos,2020-06-09,SIM
+414,M,92,Belo Horizonte,2020-06-09,SIM
+415,M,67,Belo Horizonte,2020-06-09,SIM
+416,M,75,Belo Horizonte,2020-06-07,SIM
+418,M,68,São Joaquim de Bicas,2020-06-03,SIM
+419,M,83,Uberaba,2020-06-06,SIM
+420,M,83,Juiz de Fora,2020-05-31,SIM
+424,M,87,Conselheiro Lafaiete,2020-06-06,SIM
+427,M,82,Uberaba,2020-06-05,SIM
+428,M,72,Uberlândia,2020-06-05,SIM
+432,M,75,Itinga,2020-06-08,Não informado
+433,M,73,Rodeiro,2020-06-04,Não informado
+436,M,74,Salinas,2020-06-09,SIM
+437,M,66,Governador Valadares,2020-06-01,SIM
+438,M,68,Mantena,2020-05-30,SIM
+439,M,63,Lavras,2020-06-10,SIM
+440,M,66,São João do Oriente,2020-06-10,SIM
+441,M,63,Coronel Fabriciano,2020-06-09,SIM
+443,M,61,Imbé de Minas,2020-06-10,SIM
+449,M,70,Uberlândia,2020-06-10,SIM
+450,M,84,Uberlândia,2020-06-10,SIM
+454,M,70,Monte Alegre de Minas,2020-06-12,SIM
+455,M,67,Lontra,2020-06-11,Não informado
+456,M,68,Teófilo Otoni,2020-06-12,SIM
+462,M,69,Uberaba,2020-06-10,Não informado
+464,M,93,Belo Oriente,2020-06-12,SIM
+465,M,84,Inhapim,2020-06-08,SIM
+466,M,80,Ipatinga,2020-06-12,SIM
+471,M,70,Uberlândia,2020-06-11,SIM
+480,M,62,Munhoz,2020-06-13,SIM
+482,M,94,Uberlândia,2020-06-02,SIM
+486,M,74,Uberlândia,2020-06-09,SIM
+487,M,80,Córrego do Bom Jesus,2020-05-24,SIM
+489,M,64,Betim,2020-06-13,SIM
+490,M,83,Morro da Garça,2020-06-12,SIM
+496,M,67,Belo Horizonte,2020-06-10,SIM
+498,M,75,Belo Horizonte,2020-06-13,SIM
+501,M,75,Belo Oriente,2020-06-10,SIM
+502,M,66,Ipatinga,2020-06-10,SIM
+503,M,70,São Gonçalo do Rio Abaixo,2020-06-10,Não informado
+504,M,79,Ipatinga,2020-06-15,SIM
+506,M,69,Ipatinga,2020-06-15,SIM
+510,M,81,Sete Lagoas,2020-06-12,SIM
+512,M,79,Betim,2020-06-14,SIM
+513,M,61,Sabará,2020-06-13,NÃO
+517,M,83,Lavras,2020-06-13,SIM
+518,M,69,Lavras,2020-06-10,SIM
+521,M,70,Belo Horizonte,2020-06-12,Não informado
+523,M,87,Belo Horizonte,2020-06-14,SIM
+525,M,91,Espinosa,2020-06-06,Não informado
+527,M,65,Ribeirão das Neves,2020-06-13,SIM
+530,M,73,Senador Firmino,2020-06-13,SIM
+531,M,77,Contagem,2020-06-12,SIM
+539,M,62,Ouro Preto,2020-06-13,SIM
+541,M,89,Santa Luzia,2020-06-09,SIM
+542,M,79,Santa Luzia,2020-06-08,SIM
+543,M,87,Raposos,2020-06-15,SIM
+544,M,65,Três Corações,2020-06-05,SIM
+545,M,67,São Francisco,2020-06-13,Não informado
+546,M,70,Outros Estados,2020-06-12,SIM
+553,M,75,Governador Valadares,2020-06-07,SIM
+554,M,70,Uberlândia,2020-06-14,SIM
+558,M,69,Juiz de Fora,2020-06-11,SIM
+559,M,79,Coronel Pacheco,2020-06-12,SIM
+561,M,65,Belo Horizonte,2020-06-10,Não informado
+563,M,89,Carangola,2020-06-12,SIM
+569,M,81,Governador Valadares,2020-06-01,SIM
+572,M,70,Varjão de Minas,2020-06-09,SIM
+575,M,64,Belo Oriente,2020-06-17,Não informado
+578,M,86,Ibirité,2020-06-07,SIM
+580,M,71,Contagem,2020-04-28,SIM
+587,M,76,Uberlândia,2020-06-15,SIM
+589,M,84,Uberlândia,2020-06-15,SIM
+590,M,67,Uberlândia,2020-06-15,SIM
+592,M,89,Muriaé,2020-06-17,SIM
+596,M,70,Governador Valadares,2020-06-08,SIM
+597,M,78,Santana do Paraíso,2020-06-15,SIM
+599,M,84,Governador Valadares,2020-05-20,SIM
+602,M,81,Nova Ponte,2020-06-15,SIM
+606,M,69,Divinópolis,2020-06-10,SIM
+609,M,89,Divinópolis,2020-06-08,SIM
+610,M,87,Divinópolis,2020-06-09,SIM
+616,M,61,Itanhandu,2020-06-18,SIM
+618,M,81,Araporã,2020-06-19,SIM
+621,M,91,Santa Efigênia de Minas,2020-06-15,SIM
+622,M,64,Governador Valadares,2020-06-13,SIM
+623,M,92,Governador Valadares,2020-06-13,SIM
+625,M,78,Juiz de Fora,2020-05-25,SIM
+627,M,79,Luz,2020-06-13,SIM
+628,M,88,Muriaé,2020-06-15,SIM
+629,M,74,Belo Horizonte,2020-06-18,SIM
+631,M,81,Belo Horizonte,2020-06-12,SIM
+632,M,64,Jaboticatubas,2020-06-18,SIM
+636,M,83,Boa Esperança,2020-06-15,SIM
+637,M,63,Caratinga,2020-06-17,SIM
+642,M,81,Uberaba,2020-06-18,SIM
+645,M,86,Leopoldina,2020-06-16,SIM
+646,M,85,Acaiaca,2020-06-17,NÃO
+647,M,66,Uberaba,2020-06-19,SIM
+650,M,83,Divinópolis,2020-06-03,SIM
+654,M,74,Contagem,2020-06-18,SIM
+655,M,81,Muriaé,2020-06-18,SIM
+659,M,85,Araguari,2020-06-19,SIM
+660,M,77,Araguari,2020-06-19,NÃO
+663,M,64,Governador Valadares,2020-06-13,SIM
+664,M,61,Monte Alegre de Minas,2020-06-11,SIM
+671,M,69,Juiz de Fora,2020-06-05,SIM
+673,M,70,Juiz de Fora,2020-04-03,SIM
+674,M,88,Juiz de Fora,2020-06-17,SIM
+678,M,76,Cambuí,2020-05-21,SIM
+680,M,83,Ponte Nova,2020-06-09,SIM
+681,M,85,Ipatinga,2020-06-13,SIM
+684,M,76,São João Del Rei,2020-06-13,SIM
+685,M,87,Urucuia,2020-06-15,Não informado
+686,M,91,Uberaba,2020-06-16,SIM
+687,M,68,Mantena,2020-06-02,SIM
+690,M,68,São Joaquim de Bicas,2020-06-17,SIM
+691,M,65,Muriaé,2020-06-20,SIM
+692,M,87,Itabirinha,2020-06-12,SIM
+694,M,62,Governador Valadares,2020-06-14,SIM
+696,M,61,Santa Rita de Jacutinga,2020-06-02,SIM
+704,M,71,Uberlândia,2020-06-13,SIM
+707,M,67,Uberlândia,2020-06-19,SIM
+712,M,80,Ipatinga,2020-06-21,SIM
+713,M,78,Ipatinga,2020-06-21,SIM
+715,M,84,Passa Quatro,2020-06-20,SIM
+719,M,88,Coronel Fabriciano,2020-06-20,SIM
+721,M,93,Coronel Fabriciano,2020-06-22,SIM
+723,M,73,Capitão Enéas,2020-06-20,SIM
+724,M,82,Teófilo Otoni,2020-06-05,Não informado
+727,M,71,Teófilo Otoni,2020-06-10,Não informado
+730,M,76,Teófilo Otoni,2020-06-10,SIM
+733,M,80,Uberlândia,2020-06-22,SIM
+734,M,90,Uberlândia,2020-06-22,SIM
+736,M,86,Uberlândia,2020-06-23,SIM
+737,M,72,Uberlândia,2020-06-23,SIM
+740,M,70,São João Evangelista,2020-06-21,Não informado
+742,M,71,Governador Valadares,2020-06-18,SIM
+743,M,88,Extrema,2020-06-19,NÃO
+746,M,77,São Joaquim de Bicas,2020-06-17,SIM
+750,M,62,Belo Horizonte,2020-06-22,SIM
+751,M,85,Belo Horizonte,2020-06-21,SIM
+766,M,66,Formiga,2020-06-02,SIM
+769,M,79,Poté,2020-06-20,SIM
+771,M,81,Teófilo Otoni,2020-06-22,Não informado
+778,M,84,Caparaó,2020-05-20,Não informado
+781,M,64,Poços de Caldas,2020-06-23,NÃO
+783,M,79,Jacutinga,2020-06-23,NÃO
+784,M,71,Campanha,2020-06-20,Não informado
+785,M,79,Mar de Espanha,2020-05-27,SIM
+786,M,78,Mar de Espanha,2020-06-03,SIM
+787,M,61,Rio Manso,2020-06-23,NÃO
+791,M,71,Ribeirão das Neves,2020-06-19,SIM
+792,M,62,Ribeirão das Neves,2020-06-20,NÃO
+793,M,79,Sabará,2020-06-21,SIM
+795,M,76,Uberaba,2020-06-18,SIM
+796,M,80,Monte Alegre de Minas,2020-06-23,SIM
+800,M,82,Ipatinga,2020-06-23,SIM
+802,M,88,Monte Carmelo,2020-06-20,SIM
+803,M,96,Arcos,2020-06-19,SIM
+807,M,83,Betim,2020-06-18,SIM
+808,M,67,Outros Estados,2020-06-21,SIM
+810,M,79,Uberlândia,2020-06-23,SIM
+811,M,67,Uberlândia,2020-06-23,SIM
+812,M,78,Uberlândia,2020-06-23,SIM
+815,M,65,Uberlândia,2020-06-24,SIM
+816,M,79,Uberlândia,2020-06-25,SIM
+817,M,61,Guaranésia,2020-06-23,SIM
+818,M,70,Teófilo Otoni,2020-05-30,SIM
+820,M,96,Divino das Laranjeiras,2020-06-23,SIM
+821,M,81,Jaboticatubas,2020-06-16,SIM
+824,M,68,Contagem,2020-06-23,SIM
+827,M,65,Belo Horizonte,2020-06-24,SIM
+829,M,83,Carmópolis de Minas,2020-06-21,SIM
+833,M,62,Ipaba,2020-06-25,SIM
+837,M,90,Ipatinga,2020-06-22,SIM
+843,M,89,Santa Luzia,2020-06-23,Não informado
+844,M,65,Lagoa da Prata,2020-06-20,SIM
+845,M,83,Carmópolis de Minas,2020-06-24,SIM
+846,M,69,Salinas,2020-06-16,SIM
+848,M,85,Janaúba,2020-06-25,SIM
+853,M,82,Tupaciguara,2020-06-25,SIM
+854,M,65,Guanhães,2020-06-23,SIM
+857,M,64,Outros Estados,2020-06-20,Não informado
+859,M,63,Caraí,2020-06-25,Não informado
+863,M,83,Teófilo Otoni,2020-06-25,SIM
+868,M,87,São Francisco,2020-06-18,Não informado
+871,M,81,Governador Valadares,2020-06-21,Não informado
+873,M,78,Sete Lagoas,2020-06-26,SIM
+874,M,84,São Tiago,2020-06-25,Não informado
+877,M,68,Muriaé,2020-05-20,Não informado
+879,M,70,Uberlândia,2020-05-31,SIM
+882,M,74,Rio Novo,2020-05-31,Não informado
+883,M,83,São João Del Rei,2020-06-26,SIM
+884,M,68,Guaranésia,2020-06-25,SIM
+885,M,88,Frutal,2020-06-22,Não informado
+886,M,86,Frutal,2020-06-25,Não informado
+894,M,79,Governador Valadares,2020-06-19,Não informado
+896,M,65,Governador Valadares,2020-06-22,SIM
+898,M,86,Araguari,2020-06-25,SIM
+901,M,77,Lagoa Dourada,2020-06-27,SIM
+902,M,81,Nova Ponte,2020-06-26,Não informado
+903,M,62,Uberaba,2020-06-27,SIM
+904,M,69,Uberaba,2020-06-27,SIM
+905,M,72,Piumhi,2020-06-24,SIM
+906,M,71,Uberlândia,2020-06-27,Não informado
+908,M,77,Patrocínio,2020-06-26,Não informado
+910,M,90,Ingaí,2020-05-17,SIM
+918,M,78,Belo Horizonte,2020-06-08,SIM
+921,M,86,Belo Horizonte,2020-06-23,SIM
+923,M,67,Belo Horizonte,2020-06-25,NÃO
+924,M,77,Belo Horizonte,2020-06-26,SIM
+925,M,77,Belo Horizonte,2020-06-26,SIM
+928,M,89,Belo Horizonte,2020-06-22,SIM
+934,M,64,Belo Horizonte,2020-06-20,SIM
+935,M,68,Belo Horizonte,2020-06-19,SIM
+936,M,75,Belo Horizonte,2020-06-10,SIM
+941,M,77,Mário Campos,2020-06-26,SIM
+943,M,89,Sabará,2020-06-26,SIM
+945,M,61,Nova Serrana,2020-06-12,SIM
+952,M,83,Belo Horizonte,2020-06-28,SIM
+953,M,81,Lavras,2020-06-29,SIM
+956,M,72,Poços de Caldas,2020-06-27,NÃO
+959,M,98,Uberlândia,2020-06-21,SIM
+960,M,76,Tupaciguara,2020-06-22,SIM
+962,M,62,Piedade do Rio Grande,2020-06-28,SIM
+964,M,77,Patos de Minas,2020-06-09,SIM
+966,M,61,Patos de Minas,2020-06-12,SIM
+967,M,86,Rio Paranaíba,2020-06-13,SIM
+968,M,79,Carmo do Paranaíba,2020-06-27,SIM
+970,M,74,Coromandel,2020-06-26,SIM
+972,M,93,Juiz de Fora,2020-06-25,SIM
+973,M,66,Juiz de Fora,2020-06-29,SIM
+976,M,81,Nanuque,2020-06-24,SIM
+977,M,97,Carlos Chagas,2020-06-26,SIM
+978,M,63,Coronel Fabriciano,2020-06-21,SIM
+982,M,62,Santa Juliana,2020-06-25,SIM
+984,M,85,Contagem,2020-06-24,SIM
+985,M,62,Contagem,2020-06-24,SIM
+986,M,67,Contagem,2020-06-20,SIM
+989,M,62,São Joaquim de Bicas,2020-06-17,SIM
+995,M,71,Curvelo,2020-06-29,Não informado
+999,M,73,Belo Horizonte,2020-06-19,SIM
+1000,M,68,Belo Horizonte,2020-06-16,Não informado
+1003,M,67,Belo Horizonte,2020-06-23,SIM
+1004,M,73,Belo Horizonte,2020-06-28,Não informado
+1007,M,75,Governador Valadares,2020-06-21,SIM
+1009,M,79,Martins Soares,2020-06-21,SIM
+1011,M,83,Manhuaçu,2020-06-28,NÃO
+1016,M,61,Rio Paranaíba,2020-06-21,SIM
+1021,M,72,Jacutinga,2020-06-30,SIM
+1027,M,65,Uberlândia,2020-06-30,NÃO
+1029,M,80,Uberlândia,2020-07-01,SIM
+1042,M,76,Belo Horizonte,2020-06-28,SIM
+1043,M,70,Belo Horizonte,2020-06-24,SIM
+1044,M,84,Belo Horizonte,2020-06-29,SIM
+1047,M,67,Belo Horizonte,2020-06-24,SIM
+1048,M,74,Belo Horizonte,2020-06-26,SIM
+1051,M,70,Belo Horizonte,2020-06-29,SIM
+1052,M,63,Belo Horizonte,2020-06-22,SIM
+1054,M,88,Ipatinga,2020-06-30,SIM
+1060,M,72,Uberlândia,2020-06-27,SIM
+1061,M,92,Araguari,2020-06-26,SIM
+1062,M,94,Uberlândia,2020-06-28,SIM
+1070,M,86,Uberlândia,2020-06-28,SIM
+1072,M,70,Nova Serrana,2020-06-09,SIM
+1073,M,71,Leopoldina,2020-06-23,Não informado
+1078,M,89,Leopoldina,2020-06-29,Não informado
+1084,M,79,Governador Valadares,2020-06-28,SIM
+1086,M,68,Betim,2020-06-28,SIM
+1088,M,79,Contagem,2020-06-22,SIM
+1089,M,82,Contagem,2020-06-29,SIM
+1090,M,79,Contagem,2020-06-29,SIM
+1091,M,76,Contagem,2020-06-22,SIM
+1098,M,68,Vespasiano,2020-07-01,SIM
+1102,M,84,Belo Horizonte,2020-06-28,SIM
+1103,M,66,Belo Horizonte,2020-06-29,SIM
+1105,M,92,Belo Horizonte,2020-06-27,SIM
+1108,M,77,Belo Horizonte,2020-06-04,SIM
+1109,M,74,Belo Horizonte,2020-06-11,SIM
+1110,M,74,Caiana,2020-06-09,SIM
+1111,M,90,Cataguases,2020-06-19,SIM
+1112,M,66,Ibiá,2020-06-28,SIM
+1114,M,84,Juiz de Fora,2020-06-14,SIM
+1115,M,83,Juiz de Fora,2020-07-02,SIM
+1117,M,62,Uberlândia,2020-07-02,SIM
+1119,M,62,Uberlândia,2020-07-02,SIM
+1120,M,69,Uberlândia,2020-07-02,SIM
+1121,M,86,Uberlândia,2020-07-02,SIM
+1122,M,66,Uberlândia,2020-07-02,SIM
+1127,M,71,Várzea da Palma,2020-06-25,SIM
+1132,M,62,Engenheiro Caldas,2020-06-28,NÃO
+1133,M,69,Mantena,2020-06-28,SIM
+1134,M,78,Mantena,2020-06-25,NÃO
+1135,M,74,Governador Valadares,2020-06-28,SIM
+1136,M,63,Santana do Paraíso,2020-07-03,SIM
+1137,M,82,Ipatinga,2020-07-02,SIM
+1139,M,84,Jaguaraçu,2020-06-30,NÃO
+1141,M,68,Dom Cavati,2020-07-02,SIM
+1142,M,81,Ipatinga,2020-07-01,SIM
+1144,M,75,Mesquita,2020-06-11,SIM
+1146,M,68,Ipatinga,2020-07-02,NÃO
+1147,M,66,Coronel Fabriciano,2020-07-01,SIM
+1150,M,80,Janaúba,2020-07-01,SIM
+1151,M,83,Nova Lima,2020-07-03,SIM
+1154,M,76,Betim,2020-07-02,SIM
+1160,M,81,Caparaó,2020-06-13,SIM
+1161,M,69,Espera Feliz,2020-06-10,SIM
+1166,M,89,Belo Horizonte,2020-06-26,SIM
+1168,M,75,Belo Horizonte,2020-06-30,SIM
+1169,M,76,Belo Horizonte,2020-06-30,SIM
+1170,M,66,Uberlândia,2020-06-24,SIM
+1171,M,66,Uberlândia,2020-06-25,SIM
+1175,M,83,Uberlândia,2020-06-26,SIM
+1176,M,73,Patrocínio,2020-06-20,Não informado
+1177,M,73,Uberlândia,2020-06-26,SIM
+1179,M,85,Uberlândia,2020-06-28,SIM
+1180,M,74,Nova Ponte,2020-06-29,SIM
+1182,M,85,Uberlândia,2020-06-09,SIM
+1184,M,68,Alvarenga,2020-05-28,SIM
+1185,M,87,Teófilo Otoni,2020-06-30,Não informado
+1187,M,90,Teófilo Otoni,2020-07-01,SIM
+1190,M,65,Juiz de Fora,2020-07-03,NÃO
+1191,M,80,Ipaba,2020-07-03,SIM
+1195,M,65,Tarumirim,2020-06-22,SIM
+1197,M,71,Patrocínio,2020-07-02,Não informado
+1200,M,69,Araguari,2020-06-30,SIM
+1201,M,72,Araguari,2020-07-01,SIM
+1202,M,73,Juatuba,2020-07-02,SIM
+1206,M,86,Contagem,2020-06-30,SIM
+1207,M,62,Contagem,2020-06-27,SIM
+1209,M,68,Contagem,2020-06-25,SIM
+1211,M,62,Uberlândia,2020-07-03,SIM
+1214,M,88,Uberlândia,2020-07-04,SIM
+1216,M,85,Uberlândia,2020-07-04,SIM
+1218,M,81,Governador Valadares,2020-07-02,SIM
+1221,M,81,Governador Valadares,2020-06-30,SIM
+1225,M,73,Uberlândia,2020-07-04,SIM
+1227,M,88,Uberlândia,2020-07-04,SIM
+1229,M,72,Guaranésia,2020-07-04,SIM
+1233,M,80,Dores Do Indaiá,2020-06-26,SIM
+1239,M,80,Visconde Do Rio Branco,2020-07-04,SIM
+1243,M,82,Pouso Alegre,2020-07-05,SIM
+1245,M,91,Francisco Sá,2020-07-05,SIM
+1248,M,69,Uberlândia,2020-07-05,SIM
+1249,M,69,Carmo Do Paranaíba,2020-06-29,SIM
+1252,M,73,São Sebastião Do Paraíso,2020-07-01,SIM
+1253,M,71,São João Del Rei,2020-07-05,SIM
+1254,M,80,Pompéu,2020-07-05,SIM
+1256,M,68,Santana Do Paraíso,2020-07-04,SIM
+1259,M,85,Timóteo,2020-07-06,SIM
+1260,M,82,Ipatinga,2020-06-29,NÃO
+1262,M,81,Três Corações,2020-06-28,SIM
+1264,M,86,Contagem,2020-06-27,SIM
+1265,M,87,Betim,2020-07-05,SIM
+1267,M,73,Sete Lagoas,2020-07-03,SIM
+1271,M,66,Belo Horizonte,2020-06-19,SIM
+1275,M,83,Belo Horizonte,2020-07-01,SIM
+1276,M,83,Belo Horizonte,2020-06-28,SIM
+1277,M,90,Belo Horizonte,2020-07-02,SIM
+1278,M,66,Belo Horizonte,2020-07-03,SIM
+1279,M,86,Belo Horizonte,2020-07-04,SIM
+1280,M,69,Belo Horizonte,2020-07-01,SIM
+1281,M,88,Belo Horizonte,2020-06-18,Não informado
+1288,M,62,São Gotardo,2020-07-02,SIM
+1291,M,67,Coronel Fabriciano,2020-07-06,SIM
+1292,M,86,Caratinga,2020-07-06,SIM
+1293,M,86,Ipatinga,2020-07-06,SIM
+1295,M,83,Belo Oriente,2020-07-02,SIM
+1296,M,76,Uberlândia,2020-07-01,SIM
+1297,M,84,Uberlândia,2020-07-05,SIM
+1298,M,77,Uberlândia,2020-07-06,SIM
+1300,M,70,Uberlândia,2020-07-06,SIM
+1303,M,76,Salinas,2020-07-05,SIM
+1304,M,74,Salinas,2020-07-02,Não informado
+1305,M,71,Monte Sião,2020-07-03,SIM
+1308,M,62,Pouso Alegre,2020-07-06,SIM
+1309,M,64,Pouso Alegre,2020-07-06,SIM
+1310,M,74,Pouso Alegre,2020-07-06,SIM
+1311,M,82,Rochedo de Minas,2020-06-30,SIM
+1312,M,75,Juiz de Fora,2020-07-02,SIM
+1315,M,74,Urucuia,2020-07-06,SIM
+1316,M,84,Buritizeiro,2020-07-03,SIM
+1317,M,74,Lavras,2020-07-03,SIM
+1318,M,74,Passa Quatro,2020-07-06,SIM
+1320,M,86,Inimutaba,2020-07-06,SIM
+1321,M,83,Belo Horizonte,2020-07-04,SIM
+1323,M,63,Belo Horizonte,2020-07-03,SIM
+1326,M,79,Belo Horizonte,2020-07-06,SIM
+1327,M,71,Belo Horizonte,2020-07-06,NÃO
+1330,M,84,Belo Horizonte,2020-07-03,SIM
+1331,M,79,Belo Horizonte,2020-07-04,SIM
+1334,M,74,Cataguases,2020-06-02,Não informado
+1338,M,87,Teófilo Otoni,2020-06-18,Não informado
+1339,M,77,Teófilo Otoni,2020-06-25,SIM
+1341,M,87,Teófilo Otoni,2020-07-01,SIM
+1343,M,88,São Geraldo do Baixio,2020-07-02,Não informado
+1347,M,75,Jeceaba,2020-07-03,NÃO
+1349,M,78,Martins Soares,2020-06-19,SIM
+1350,M,79,Manhuaçu,2020-07-01,SIM
+1354,M,67,Leopoldina,2020-06-21,Não informado
+1355,M,82,Leopoldina,2020-06-25,Não informado
+1359,M,77,Betim,2020-06-28,SIM
+1360,M,63,Betim,2020-07-05,SIM
+1361,M,66,Esmeraldas,2020-07-04,SIM
+1362,M,62,Ibirité,2020-07-05,SIM
+1363,M,75,Ibirité,2020-07-03,SIM
+1372,M,67,São Gotardo,2020-07-04,SIM
+1373,M,75,São Gotardo,2020-06-30,SIM
+1374,M,84,Carlos Chagas,2020-07-03,SIM
+1375,M,85,Unaí,2020-07-03,NÃO
+1378,M,90,Uberlândia,2020-07-08,SIM
+1379,M,68,Nova Porteirinha,2020-07-02,Não informado
+1382,M,84,Alpinópolis,2020-07-08,SIM
+1388,M,78,Araguari,2020-07-06,SIM
+1389,M,65,Marliéria,2020-07-07,SIM
+1390,M,75,Timóteo,2020-07-03,SIM
+1393,M,75,Ipaba,2020-07-01,SIM
+1394,M,63,Ipatinga,2020-07-08,Não informado
+1395,M,69,Santana do Paraíso,2020-07-02,SIM
+1396,M,74,Lavras,2020-07-06,SIM
+1397,M,67,Lavras,2020-07-08,SIM
+1401,M,85,Contagem,2020-07-05,SIM
+1404,M,67,Contagem,2020-07-04,SIM
+1406,M,69,Contagem,2020-07-02,NÃO
+1412,M,97,Contagem,2020-06-30,SIM
+1417,M,68,Itabira,2020-07-05,SIM
+1418,M,63,Muriaé,2020-06-24,SIM
+1420,M,88,Belo Horizonte,2020-06-16,SIM
+1421,M,76,Belo Horizonte,2020-06-24,SIM
+1422,M,86,Belo Horizonte,2020-07-02,SIM
+1423,M,65,Belo Horizonte,2020-07-06,SIM
+1424,M,86,Belo Horizonte,2020-06-28,NÃO
+1426,M,81,Belo Horizonte,2020-06-21,SIM
+1431,M,90,Belo Horizonte,2020-06-23,SIM
+1432,M,67,Belo Horizonte,2020-07-03,SIM
+1434,M,78,Belo Horizonte,2020-06-27,SIM
+1435,M,80,Belo Horizonte,2020-06-26,SIM
+1436,M,71,Belo Horizonte,2020-06-30,SIM
+1437,M,77,Belo Horizonte,2020-06-21,SIM
+1438,M,62,Belo Horizonte,2020-06-30,SIM
+1443,M,62,Além Paraíba,2020-06-29,NÃO
+1448,M,69,Estrela Dalva,2020-06-28,SIM
+1451,M,77,Palmópolis,2020-07-07,NÃO
+1453,M,73,Delta,2020-06-28,SIM
+1454,M,91,Uberlândia,2020-07-08,SIM
+1455,M,90,Montes Claros,2020-07-06,SIM
+1457,M,86,Juiz de Fora,2020-07-02,SIM
+1471,M,76,Paracatu,2020-07-08,SIM
+1475,M,62,Belo Horizonte,2020-07-04,SIM
+1479,M,67,Belo Horizonte,2020-07-06,SIM
+1481,M,80,Belo Horizonte,2020-06-27,SIM
+1484,M,99,Belo Horizonte,2020-07-07,SIM
+1487,M,62,Belo Horizonte,2020-07-03,SIM
+1490,M,78,Belo Horizonte,2020-07-04,SIM
+1496,M,63,Belo Horizonte,2020-06-29,SIM
+1499,M,74,Jequitibá,2020-07-05,SIM
+1500,M,61,Paraisópolis,2020-06-27,SIM
+1502,M,76,Espera Feliz,2020-07-07,SIM
+1503,M,68,Belo Horizonte,2020-06-13,SIM
+1505,M,79,Belo Horizonte,2020-06-14,SIM
+1508,M,63,Bom Despacho,2020-07-05,SIM
+1512,M,76,Martinho Campos,2020-07-06,SIM
+1513,M,68,Itaúna,2020-07-04,SIM
+1519,M,85,Águas Formosas,2020-07-01,SIM
+1520,M,82,Espinosa,2020-07-09,SIM
+1521,M,75,Espinosa,2020-05-17,SIM
+1522,M,72,Rio Pardo de Minas,2020-07-09,SIM
+1523,M,72,Alpinópolis,2020-07-07,SIM
+1524,M,62,Ipatinga,2020-07-06,SIM
+1525,M,67,Caratinga,2020-07-08,SIM
+1526,M,83,Coronel Fabriciano,2020-07-09,SIM
+1530,M,67,Araguari,2020-07-08,Não informado
+1531,M,73,Araguari,2020-07-08,SIM
+1534,M,69,Sobrália,2020-05-30,NÃO
+1535,M,63,Sabará,2020-07-03,SIM
+1537,M,84,Contagem,2020-07-08,SIM
+1538,M,73,Contagem,2020-07-08,SIM
+1540,M,86,Contagem,2020-06-02,SIM
+1543,M,72,Contagem,2020-05-29,SIM
+1544,M,68,Salinas,2020-07-01,SIM
+1545,M,65,Santa Luzia,2020-06-21,SIM
+1547,M,63,Itapagipe,2020-06-27,SIM
+1548,M,84,Frutal,2020-07-09,NÃO
+1549,M,73,Santa Juliana,2020-07-09,SIM
+1550,M,77,Uberaba,2020-07-10,SIM
+1551,M,75,Joanésia,2020-07-09,SIM
+1553,M,77,Coronel Fabriciano,2020-07-03,SIM
+1556,M,67,Caratinga,2020-07-09,NÃO
+1558,M,68,Juiz de Fora,2020-07-09,NÃO
+1559,M,81,Matias Barbosa,2020-07-09,SIM
+1560,M,85,Juiz de Fora,2020-07-08,SIM
+1562,M,64,Contagem,2020-07-09,SIM
+1563,M,65,Contagem,2020-07-09,SIM
+1565,M,86,Esmeraldas,2020-07-10,SIM
+1566,M,66,Juatuba,2020-07-03,SIM
+1569,M,62,Governador Valadares,2020-07-03,SIM
+1572,M,72,Uberlândia,2020-06-16,SIM
+1575,M,87,Inconfidentes,2020-07-09,SIM
+1577,M,81,Belo Horizonte,2020-06-25,SIM
+1579,M,68,Belo Horizonte,2020-06-25,SIM
+1581,M,90,Belo Horizonte,2020-06-22,SIM
+1582,M,72,Belo Horizonte,2020-06-28,SIM
+1583,M,63,Belo Horizonte,2020-07-04,SIM
+1584,M,81,Belo Horizonte,2020-07-03,SIM
+1585,M,81,Belo Horizonte,2020-07-05,SIM
+1586,M,79,Belo Horizonte,2020-06-30,SIM
+1587,M,82,Belo Horizonte,2020-06-27,SIM
+1590,M,64,Belo Horizonte,2020-06-29,SIM
+1593,M,73,Belo Horizonte,2020-07-01,SIM
+1596,M,81,Belo Horizonte,2020-07-04,NÃO
+1599,M,84,Ipatinga,2020-07-06,NÃO
+1600,M,88,Braúnas,2020-07-11,SIM
+1601,M,61,Governador Valadares,2020-07-05,Não informado
+1605,M,82,Janaúba,2020-07-11,SIM
+1608,M,72,Araguari,2020-07-12,SIM
+1610,M,90,Lagoa Dourada,2020-07-10,SIM
+1611,M,72,Araguari,2020-07-11,SIM
+1612,M,89,Uberaba,2020-07-11,SIM
+1615,M,81,Leopoldina,2020-07-09,Não informado
+1616,M,67,Argirita,2020-06-26,Não informado
+1618,M,83,Uberlândia,2020-06-16,SIM
+1619,M,80,Araguari,2020-06-09,SIM
+1620,M,69,Divinópolis,2020-07-03,SIM
+1622,M,64,Itapecerica,2020-07-05,SIM
+1625,M,68,Lavras,2020-07-12,SIM
+1629,M,98,Uberlândia,2020-07-12,SIM
+1636,M,76,Coronel Fabriciano,2020-07-09,NÃO
+1638,M,87,Araguari,2020-07-12,SIM
+1643,M,103,Pirapora,2020-07-11,SIM
+1644,M,63,Buritizeiro,2020-07-12,SIM
+1645,M,67,Betim,2020-07-07,SIM
+1650,M,72,Contagem,2020-07-07,SIM
+1655,M,78,Ribeirão das Neves,2020-05-31,SIM
+1657,M,73,Ribeirão das Neves,2020-07-04,SIM
+1659,M,89,Ribeirão das Neves,2020-07-01,SIM
+1660,M,68,Ribeirão das Neves,2020-06-29,SIM
+1661,M,84,Ribeirão das Neves,2020-06-18,SIM
+1662,M,67,Ribeirão das Neves,2020-06-30,SIM
+1663,M,66,Ribeirão das Neves,2020-07-05,NÃO
+1666,M,68,Ibirité,2020-07-11,NÃO
+1667,M,84,Ibirité,2020-07-11,NÃO
+1670,M,90,João Monlevade,2020-07-12,SIM
+1671,M,81,Belo Horizonte,2020-07-02,Não informado
+1672,M,67,Belo Horizonte,2020-07-08,SIM
+1673,M,78,Belo Horizonte,2020-07-11,SIM
+1678,M,68,Belo Horizonte,2020-07-10,Não informado
+1682,M,86,Belo Horizonte,2020-07-11,SIM
+1683,M,67,Belo Horizonte,2020-07-11,Não informado
+1684,M,83,Belo Horizonte,2020-06-24,Não informado
+461,M,63,Ubá,2020-06-06,SIM
+1698,M,66,Juiz de Fora,2020-07-12,SIM
+1703,M,91,Taiobeiras,2020-07-11,Não informado
+1705,M,85,Montes Claros,2020-07-10,Não informado
+1707,M,81,Uberlândia,2020-07-13,SIM
+1708,M,84,Uberlândia,2020-07-13,SIM
+1711,M,76,São João do Oriente,2020-07-13,SIM
+1712,M,84,Coronel Fabriciano,2020-07-12,SIM
+1713,M,65,Dom Cavati,2020-07-12,Não informado
+1714,M,81,Coronel Fabriciano,2020-07-10,NÃO
+1715,M,80,Araguari,2020-07-13,SIM
+1721,M,84,Jeceaba,2020-07-12,SIM
+1722,M,85,Caranaíba,2020-07-08,SIM
+1724,M,67,Betim,2020-07-07,SIM
+1725,M,68,Contagem,2020-07-10,NÃO
+1734,M,85,Sabará,2020-07-13,SIM
+1737,M,65,Belo Horizonte,2020-07-09,SIM
+1740,M,85,Belo Horizonte,2020-07-11,SIM
+1745,M,88,Belo Horizonte,2020-07-08,SIM
+1746,M,73,Manhuaçu,2020-07-13,NÃO
+1747,M,74,Santa Margarida,2020-07-12,SIM
+1749,M,67,Muriaé,2020-07-02,SIM
+1751,M,79,Pedra Azul,2020-07-10,SIM
+1753,M,77,Almenara,2020-07-12,SIM
+1754,M,68,Medina,2020-06-26,SIM
+1759,M,73,Campo Belo,2020-07-03,SIM
+1760,M,83,Campo Belo,2020-07-08,SIM
+1762,M,78,Papagaios,2020-07-10,SIM
+1763,M,70,Uberlândia,2020-07-14,SIM
+1765,M,81,Uberlândia,2020-07-15,SIM
+1766,M,70,Toledo,2020-06-13,SIM
+1767,M,103,Borda da Mata,2020-07-06,SIM
+1768,M,64,Outros Estados,2020-07-08,SIM
+1769,M,92,Borda da mata,2020-07-09,SIM
+1771,M,66,Poços de Caldas,2020-07-13,SIM
+1773,M,79,Carmo do Paranaíba,2020-07-05,SIM
+1778,M,78,Teófilo Otoni,2020-07-13,SIM
+1780,M,66,Coronel Fabriciano,2020-06-25,Não informado
+1783,M,73,Timóteo,2020-07-14,SIM
+1784,M,70,Boa Esperança,2020-07-08,SIM
+1788,M,78,Caeté,2020-07-13,SIM
+1789,M,77,Betim,2020-07-12,SIM
+1798,M,70,Belo Horizonte,2020-07-10,SIM
+1802,M,88,Belo Horizonte,2020-07-12,SIM
+1803,M,66,Belo Horizonte,2020-07-13,SIM
+1804,M,89,Belo Horizonte,2020-07-08,SIM
+1807,M,70,Belo Horizonte,2020-07-12,SIM
+1808,M,77,Belo Horizonte,2020-07-05,SIM
+1809,M,67,Belo Horizonte,2020-06-30,SIM
+1815,M,62,Belo Horizonte,2020-07-13,SIM
+1816,M,89,Belo Horizonte,2020-07-07,SIM
+1828,M,61,Muriaé,2020-06-25,SIM
+1829,M,71,Santa Rita de Minas,2020-07-12,SIM
+1830,M,70,Ipatinga,2020-07-14,SIM
+1831,M,73,Coronel Fabriciano,2020-07-15,Não informado
+1833,M,74,Santana do Paraíso,2020-07-15,SIM
+1836,M,75,Montes Claros,2020-07-14,SIM
+1840,M,63,Uberlândia,2020-07-15,SIM
+1846,M,77,Curvelo,2020-07-14,NÃO
+1851,M,83,Campo Belo,2020-07-13,SIM
+1852,M,76,Candeias,2020-07-12,SIM
+1859,M,84,Central de Minas,2020-07-03,SIM
+1860,M,73,Alfenas,2020-07-13,SIM
+1861,M,81,Alfenas,2020-07-15,SIM
+1862,M,81,Alfenas,2020-07-15,SIM
+1866,M,65,Contagem,2020-07-11,SIM
+1867,M,79,Belo Horizonte,2020-06-27,SIM
+1870,M,84,Contagem,2020-07-14,SIM
+1872,M,87,Ibirité,2020-07-10,SIM
+1873,M,99,Ibirité,2020-07-14,SIM
+1878,M,72,Ribeirão das Neves,2020-07-02,SIM
+1879,M,77,Ribeirão das Neves,2020-07-09,SIM
+1884,M,74,Belo Horizonte,2020-07-11,SIM
+1885,M,84,Belo Horizonte,2020-07-04,SIM
+1886,M,81,Belo Horizonte,2020-07-13,SIM
+1889,M,88,Belo Horizonte,2020-07-15,NÃO
+1890,M,65,Belo Horizonte,2020-07-15,SIM
+1892,M,85,Belo Horizonte,2020-07-15,SIM
+1894,M,74,Uberaba,2020-07-07,SIM
+1897,M,90,Maria da Fé,2020-07-15,NÃO
+1901,M,74,Timóteo,2020-07-16,Não informado
+1904,M,62,Ipatinga,2020-07-08,SIM
+1907,M,74,Bom Sucesso,2020-07-16,SIM
+1908,M,87,Uberlândia,2020-07-16,SIM
+1909,M,70,Uberlândia,2020-07-16,SIM
+1911,M,74,Araguari,2020-07-16,NÃO
+1912,M,63,Uberlândia,2020-07-16,SIM
+1913,M,75,Uberlândia,2020-07-16,SIM
+1915,M,107,Uberlândia,2020-07-16,SIM
+1921,M,80,Recreio,2020-07-10,Não informado
+1922,M,75,Cataguases,2020-07-13,Não informado
+1924,M,65,Cataguases,2020-07-14,Não informado
+1926,M,71,Volta Grande,2020-07-10,Não informado
+1928,M,80,Ipatinga,2020-07-16,SIM
+1930,M,62,Governador Valadares,2020-07-06,SIM
+1931,M,63,Governador Valadares,2020-07-05,SIM
+1935,M,61,Teófilo Otoni,2020-07-14,SIM
+1937,M,61,Piedade dos Gerais,2020-07-15,NÃO
+1938,M,80,Santa Luzia,2020-07-06,Não informado
+1940,M,64,Pedro Leopoldo,2020-07-13,SIM
+1943,M,93,Ribeirão das Neves,2020-07-12,SIM
+1946,M,83,Belo Horizonte,2020-06-20,SIM
+1950,M,83,Belo Horizonte,2020-07-14,SIM
+1951,M,89,Belo Horizonte,2020-07-10,SIM
+1952,M,80,Belo Horizonte,2020-07-12,SIM
+1953,M,87,Belo Horizonte,2020-07-16,SIM
+1957,M,75,Belo Horizonte,2020-06-27,SIM
+1958,M,88,Conceição das Alagoas,2020-07-16,Não informado
+1959,M,76,Uberaba,2020-07-17,SIM
+1967,M,71,Unaí,2020-07-15,SIM
+1973,M,64,Dom Cavati,2020-07-17,Não informado
+1975,M,79,São Gonçalo do Rio Abaixo,2020-07-08,SIM
+1976,M,64,Araguari,2020-07-17,SIM
+1977,M,84,Veríssimo,2020-07-18,SIM
+1978,M,75,Planura,2020-07-18,SIM
+1979,M,98,Uberaba,2020-07-18,SIM
+1980,M,82,Frutal,2020-07-17,SIM
+1982,M,82,Visconde do Rio Branco,2020-07-15,SIM
+1984,M,65,Juiz de Fora,2020-07-14,SIM
+1986,M,77,Juiz de Fora,2020-07-17,NÃO
+1987,M,80,Ouro Branco,2020-07-15,SIM
+1990,M,65,Governador Valadares,2020-07-10,SIM
+1993,M,69,Governador Valadares,2020-07-08,SIM
+1994,M,63,Uberlândia,2020-07-18,SIM
+2002,M,71,Pratápolis,2020-07-20,NÃO
+2004,M,71,Uberlândia,2020-07-19,SIM
+2005,M,69,Uberlândia,2020-07-19,NÃO
+2007,M,66,Espinosa,2020-07-13,SIM
+2010,M,63,Lima Duarte,2020-07-15,SIM
+2012,M,69,Juiz de Fora,2020-07-17,SIM
+2013,M,79,Sarzedo,2020-07-16,SIM
+2014,M,85,Alfenas,2020-07-16,SIM
+2015,M,70,Conceição da Aparecida,2020-07-20,SIM
+2016,M,72,Outros Estados,2020-05-17,SIM
+2020,M,82,Nova Serrana,2020-07-05,SIM
+2021,M,91,Divinópolis,2020-07-03,SIM
+2022,M,89,Santana do Jacaré,2020-07-03,NÃO
+2024,M,89,Pará de Minas,2020-07-07,SIM
+2025,M,67,Jacutinga,2020-07-19,SIM
+2032,M,82,Belo Horizonte,2020-07-19,SIM
+2037,M,70,Belo Horizonte,2020-07-13,SIM
+2038,M,70,Belo Horizonte,2020-07-08,SIM
+2041,M,75,Belo Horizonte,2020-07-14,SIM
+2043,M,67,Belo Horizonte,2020-07-15,SIM
+2044,M,79,Belo Horizonte,2020-07-16,SIM
+2046,M,87,Belo Horizonte,2020-07-14,SIM
+2050,M,66,Belo Horizonte,2020-07-16,SIM
+2052,M,72,Belo Horizonte,2020-07-10,SIM
+2054,M,84,Belo Horizonte,2020-07-11,SIM
+2056,M,86,Belo Horizonte,2020-07-19,SIM
+2057,M,95,Belo Horizonte,2020-07-12,SIM
+2058,M,74,Belo Horizonte,2020-07-12,SIM
+2060,M,87,Belo Horizonte,2020-07-17,SIM
+2067,M,64,Recreio,2020-07-18,Não informado
+2070,M,61,Frutal,2020-07-11,SIM
+2072,M,76,Santa Juliana,2020-07-17,Não informado
+2073,M,63,Pirajuba,2020-07-17,Não informado
+2074,M,67,Santa Juliana,2020-07-18,Não informado
+2079,M,61,Uberlândia,2020-07-10,SIM
+2080,M,66,Ipatinga,2020-07-18,SIM
+2081,M,67,Caratinga,2020-07-16,NÃO
+2082,M,73,Timóteo,2020-07-19,NÃO
+2083,M,98,Timóteo,2020-07-20,SIM
+2084,M,70,Bom Jesus do Galho,2020-07-15,SIM
+2088,M,85,Timóteo,2020-07-11,SIM
+2093,M,85,Teófilo Otoni,2020-07-16,SIM
+2097,M,88,Fruta de Leite,2020-07-14,Não informado
+2098,M,85,Montes Claros,2020-07-17,SIM
+2099,M,85,Espinosa,2020-07-19,SIM
+2100,M,74,Uberlândia,2020-07-20,SIM
+2101,M,82,Uberlândia,2020-07-21,SIM
+2103,M,72,Matias Barbosa,2020-07-18,SIM
+2104,M,81,Betim,2020-07-16,SIM
+2109,M,70,Betim,2020-07-16,SIM
+2114,M,74,Contagem,2020-07-13,SIM
+2115,M,65,Contagem,2020-07-14,SIM
+2119,M,71,Contagem,2020-07-01,SIM
+2121,M,75,Esmeraldas,2020-07-12,SIM
+2125,M,89,Ribeirão das Neves,2020-07-18,SIM
+2126,M,72,Ribeirão das Neves,2020-06-27,SIM
+2127,M,76,Ribeirão das Neves,2020-07-13,SIM
+2128,M,69,Ribeirão das Neves,2020-07-20,SIM
+2129,M,67,Ribeirão das Neves,2020-07-19,SIM
+2130,M,82,Ribeirão das Neves,2020-06-23,SIM
+2136,M,65,Alfenas,2020-07-19,SIM
+2137,M,75,Unaí,2020-07-19,NÃO
+2140,M,90,Belo Horizonte,2020-07-18,SIM
+2141,M,71,Belo Horizonte,2020-07-14,SIM
+2142,M,80,Belo Horizonte,2020-07-19,SIM
+2144,M,72,Belo Horizonte,2020-07-08,SIM
+2148,M,83,Belo Horizonte,2020-07-14,SIM
+2150,M,81,Belo Horizonte,2020-07-16,SIM
+2151,M,88,Belo Horizonte,2020-07-15,SIM
+2154,M,89,Belo Horizonte,2020-07-20,SIM
+2156,M,93,Belo Horizonte,2020-07-16,SIM
+2161,M,82,Manhuaçu,2020-07-14,SIM
+2162,M,69,Matipó,2020-07-16,SIM
+2164,M,67,Alto Jequitibá,2020-07-12,SIM
+2168,M,77,Tupaciguara,2020-07-18,Não informado
+2169,M,89,São Francisco,2020-07-16,SIM
+2171,M,96,Juiz de Fora,2020-07-20,SIM
+2172,M,65,Juiz de Fora,2020-07-21,SIM
+2174,M,90,Campos Altos,2020-07-17,SIM
+2178,M,77,Itapagipe,2020-07-21,SIM
+2179,M,68,Conceição das Alagoas,2020-07-18,SIM
+2181,M,83,Uberlândia,2020-07-21,SIM
+2183,M,79,Montes Claros,2020-07-20,SIM
+2185,M,69,Extrema,2020-07-10,SIM
+2186,M,88,Monte Carmelo,2020-07-17,SIM
+2188,M,72,Uberlândia,2020-07-21,SIM
+2192,M,66,Ouro Branco,2020-07-21,NÃO
+2193,M,91,Alfenas,2020-07-18,SIM
+2195,M,72,Betim,2020-07-19,SIM
+2197,M,68,Betim,2020-07-05,SIM
+2199,M,75,Betim,2020-07-17,SIM
+2201,M,68,Contagem,2020-07-13,SIM
+2204,M,82,Contagem,2020-07-15,SIM
+2207,M,64,Contagem,2020-07-20,SIM
+2208,M,86,Contagem,2020-07-20,SIM
+2209,M,81,Contagem,2020-07-21,SIM
+2212,M,72,Ibirité,2020-07-17,Não informado
+2217,M,69,Jaboticatubas,2020-07-12,SIM
+2218,M,77,Mariana,2020-07-17,SIM
+2219,M,74,Belo Horizonte,2020-07-15,SIM
+2222,M,79,Belo Horizonte,2020-07-08,SIM
+2230,M,63,Belo Horizonte,2020-07-17,SIM
+2232,M,68,Belo Horizonte,2020-07-17,SIM
+2234,M,89,Belo Horizonte,2020-07-21,SIM
+2236,M,67,Belo Horizonte,2020-06-29,NÃO
+2239,M,92,Conceição das Alagoas,2020-07-22,SIM
+2241,M,75,Araxá,2020-07-19,SIM
+2242,M,63,Iturama,2020-07-20,Não informado
+2248,M,62,Ataléia,2020-07-15,Não informado
+2249,M,73,Poté,2020-07-14,SIM
+2251,M,74,Teófilo Otoni,2020-07-21,Não informado
+2253,M,77,Araguari,2020-07-20,SIM
+2259,M,67,Divinópolis,2020-07-10,SIM
+2264,M,71,Leandro Ferreira,2020-07-14,SIM
+2265,M,84,Pará de Minas,2020-07-16,SIM
+2270,M,80,Ipatinga,2020-07-21,SIM
+2271,M,67,Timóteo,2020-07-18,SIM
+2272,M,76,Timóteo,2020-07-22,SIM
+2273,M,63,Caratinga,2020-07-18,NÃO
+2275,M,79,Manhumirim,2020-07-22,SIM
+2276,M,83,Espera Feliz,2020-07-18,SIM
+2277,M,64,Esmeraldas,2020-07-16,SIM
+2278,M,71,Igarapé,2020-07-16,SIM
+2279,M,61,Pedro Leopoldo,2020-07-21,SIM
+2280,M,64,Ribeirão das Neves,2020-07-10,SIM
+2285,M,67,Ribeirão das Neves,2020-07-12,SIM
+2288,M,84,Sabará,2020-07-15,SIM
+2290,M,68,Santa Luzia,2020-06-29,SIM
+1700,M,75,Ubá,2020-05-22,SIM
+2298,M,63,Almenara,2020-07-19,SIM
+2299,M,84,Rubim,2020-07-18,NÃO
+2300,M,83,Belo Horizonte,2020-07-10,SIM
+2302,M,104,Belo Horizonte,2020-06-30,SIM
+2303,M,86,Belo Horizonte,2020-07-17,SIM
+2305,M,92,Belo Horizonte,2020-07-03,SIM
+2306,M,65,Belo Horizonte,2020-07-15,SIM
+2307,M,68,Belo Horizonte,2020-07-13,NÃO
+2308,M,62,Belo Horizonte,2020-07-19,NÃO
+2310,M,82,Belo Horizonte,2020-07-14,SIM
+2311,M,67,Belo Horizonte,2020-07-17,SIM
+2313,M,89,Belo Horizonte,2020-07-15,SIM
+2316,M,67,Ponte Nova,2020-07-16,Não informado
+2317,M,65,Ponte Nova,2020-07-16,Não informado
+2318,M,69,Raul Soares,2020-07-21,Não informado
+2320,M,77,Uberaba,2020-07-22,SIM
+2322,M,61,Divisópolis,2020-07-15,SIM
+2325,M,80,Ipatinga,2020-07-20,NÃO
+2326,M,88,Periquito,2020-07-15,SIM
+2329,M,71,Timóteo,2020-07-08,SIM
+2332,M,86,Timóteo,2020-07-19,SIM
+2333,M,102,Dom Cavati,2020-07-21,SIM
+2334,M,65,Ipatinga,2020-07-17,SIM
+2338,M,88,Ipatinga,2020-07-23,SIM
+2341,M,67,Congonhas,2020-07-21,SIM
+2343,M,71,Uberlândia,2020-07-23,SIM
+2344,M,71,Uberlândia,2020-07-23,SIM
+2346,M,87,São Tiago,2020-07-17,SIM
+2348,M,78,Cambuí,2020-07-07,SIM
+2349,M,81,Borda da Mata,2020-07-23,SIM
+2354,M,81,Alfenas,2020-07-24,SIM
+2355,M,75,Alfenas,2020-07-24,SIM
+2358,M,80,Três Corações,2020-07-19,SIM
+2361,M,91,Unaí,2020-07-23,SIM
+2363,M,65,Montes Claros,2020-07-19,SIM
+2366,M,89,Betim,2020-06-02,SIM
+2371,M,63,Betim,2020-07-23,SIM
+2372,M,90,Ibirité,2020-07-08,SIM
+2377,M,71,Belo Horizonte,2020-07-18,SIM
+2378,M,90,Belo Horizonte,2020-07-08,SIM
+2381,M,84,Belo Horizonte,2020-07-06,SIM
+2383,M,78,Belo Horizonte,2020-07-22,SIM
+2384,M,72,Belo Horizonte,2020-07-24,SIM
+2396,M,73,Belo Horizonte,2020-07-21,SIM
+2397,M,80,Belo Horizonte,2020-07-18,SIM
+2398,M,78,Belo Horizonte,2020-07-17,SIM
+2399,M,68,Belo Horizonte,2020-07-20,SIM
+2402,M,76,Belo Horizonte,2020-07-22,SIM
+2405,M,70,Uberaba,2020-07-23,SIM
+2406,M,61,Juiz de Fora,2020-07-09,SIM
+2408,M,82,Juiz de Fora,2020-07-20,SIM
+2416,M,85,Governador Valadares,2020-07-12,SIM
+2419,M,70,Governador Valadares,2020-07-13,SIM
+2422,M,62,Ilicínea,2020-07-22,SIM
+2423,M,73,Campanha,2020-07-23,SIM
+2425,M,70,Passos,2020-07-21,SIM
+2426,M,99,Careaçu,2020-07-19,SIM
+2427,M,94,Poços de Caldas,2020-07-25,SIM
+2428,M,73,Frutal,2020-07-19,SIM
+2430,M,81,Uberaba,2020-07-25,SIM
+2432,M,68,Uberaba,2020-07-25,SIM
+2433,M,64,Uberaba,2020-07-25,SIM
+2435,M,81,Timóteo,2020-07-24,SIM
+2436,M,75,Ipatinga,2020-07-23,SIM
+2437,M,78,Ipatinga,2020-07-24,SIM
+2438,M,81,Inhapim,2020-07-22,SIM
+2441,M,66,Uberlândia,2020-07-26,SIM
+2442,M,76,Iraí de Minas,2020-07-26,SIM
+2443,M,74,Uberlândia,2020-07-24,SIM
+2445,M,74,Uberlândia,2020-07-24,SIM
+2447,M,83,Uberlândia,2020-07-25,Não informado
+2449,M,79,Uberlândia,2020-07-25,SIM
+2450,M,70,Governador Valadares,2020-07-15,SIM
+2452,M,68,Governador Valadares,2020-07-15,SIM
+2453,M,85,Governador Valadares,2020-07-15,SIM
+2454,M,70,Governador Valadares,2020-07-15,SIM
+2456,M,69,Centralina,2020-07-19,SIM
+2458,M,70,Passos,2020-07-24,SIM
+2460,M,81,São João del Rei,2020-07-24,Não informado
+2463,M,80,Martins Soares,2020-07-23,SIM
+2465,M,75,Teófilo Otoni,2020-07-08,SIM
+2468,M,66,Uberlândia,2020-07-26,SIM
+2470,M,67,São Sebastião do Paraíso,2020-07-26,SIM
+2472,M,71,Almenara,2020-07-23,SIM
+2473,M,82,Santo Antônio do Jacinto,2020-07-23,Não informado
+2474,M,92,Pedra Azul,2020-07-25,SIM
+2475,M,75,Itaúna,2020-07-22,SIM
+2476,M,79,Formiga,2020-07-11,SIM
+2477,M,73,Formiga,2020-07-14,SIM
+2478,M,78,Campo Belo,2020-07-09,SIM
+2479,M,74,Formiga,2020-07-10,SIM
+2480,M,82,Formiga,2020-07-19,SIM
+2482,M,79,Divinópolis,2020-07-10,SIM
+2484,M,65,Campo Belo,2020-07-21,SIM
+2487,M,80,Formiga,2020-06-22,SIM
+2489,M,88,Curvelo,2020-07-25,SIM
+2490,M,71,Ribeirão das Neves,2020-07-25,SIM
+2494,M,65,Borda da Mata,2020-07-24,Não informado
+2495,M,86,Camanducaia,2020-07-25,SIM
+2501,M,74,Três Corações,2020-07-22,SIM
+2502,M,89,Três Corações,2020-07-25,SIM
+2505,M,65,Santa Efigênia de Minas,2020-07-19,Não informado
+2507,M,63,Betim,2020-07-25,SIM
+2509,M,76,Betim,2020-07-27,SIM
+2511,M,88,Sabará,2020-07-22,SIM
+2512,M,73,Sabará,2020-07-24,Não informado
+2513,M,75,Contagem,2020-07-09,SIM
+2514,M,66,Contagem,2020-07-06,SIM
+2517,M,92,Contagem,2020-07-18,Não informado
+2519,M,84,Contagem,2020-07-22,Não informado
+2520,M,69,Contagem,2020-07-22,SIM
+2521,M,61,Contagem,2020-07-22,SIM
+2522,M,85,Contagem,2020-07-10,SIM
+2523,M,69,Contagem,2020-07-16,SIM
+2525,M,84,Sabará,2020-07-13,SIM
+2528,M,82,Belo Horizonte,2020-07-20,SIM
+2530,M,93,Belo Horizonte,2020-07-20,Não informado
+2533,M,77,Belo Horizonte,2020-07-22,SIM
+2534,M,63,Belo Horizonte,2020-07-22,SIM
+2538,M,76,Belo Horizonte,2020-07-21,SIM
+2540,M,68,Belo Horizonte,2020-07-21,NÃO
+2543,M,67,Belo Horizonte,2020-07-18,SIM
+2546,M,63,Belo Horizonte,2020-07-18,NÃO
+2550,M,61,Sete Lagoas,2020-07-25,SIM
+2552,M,74,Três Marias,2020-07-19,SIM
+2553,M,63,São Gonçalo do Abaeté,2020-06-27,SIM
+2556,M,88,Patos de Minas,2020-07-16,SIM
+2560,M,80,Senador Firmino,2020-07-21,SIM
+2561,M,79,Eugenópolis,2020-07-22,SIM
+2562,M,69,Muriaé,2020-07-16,SIM
+2564,M,68,Uberaba,2020-07-27,SIM
+2565,M,81,Conceição das Alagoas,2020-07-18,SIM
+2566,M,64,Manhumirim,2020-07-25,SIM
+2570,M,83,Juiz de Fora,2020-07-23,NÃO
+2571,M,69,Juiz de Fora,2020-07-24,SIM
+2573,M,70,Juiz de Fora,2020-07-28,SIM
+2574,M,75,Visconde do Rio Branco,2020-07-28,NÃO
+2576,M,76,Uberlândia,2020-07-27,SIM
+2578,M,82,Montes Claros,2020-07-23,SIM
+2579,M,83,Montes Claros,2020-07-24,SIM
+2580,M,68,Monte Azul,2020-07-25,SIM
+2583,M,69,Ipatinga,2020-07-26,NÃO
+2584,M,62,Santana do Paraíso,2020-07-24,SIM
+2587,M,63,Santana do Paraíso,2020-07-25,SIM
+2589,M,75,Governador Valadares,2020-07-22,Não informado
+2593,M,88,Betim,2020-07-25,SIM
+2595,M,63,Contagem,2020-07-24,SIM
+2596,M,61,Contagem,2020-07-24,SIM
+2599,M,78,Contagem,2020-07-23,SIM
+2600,M,89,Contagem,2020-07-11,SIM
+2601,M,86,Contagem,2020-07-23,Não informado
+2610,M,76,Pratápolis,2020-07-27,SIM
+2614,M,83,Frutal,2020-07-24,SIM
+2615,M,67,Muriaé,2020-07-27,SIM
+2622,M,69,Uberlândia,2020-07-28,SIM
+2624,M,79,Uberlândia,2020-07-29,SIM
+2296,M,81,Ubá,2020-07-20,SIM
+2626,M,87,Brazópolis,2020-07-25,NÃO
+2627,M,80,Borda da Mata,2020-07-21,SIM
+2628,M,78,Borda da Mata,2020-07-20,SIM
+2631,M,79,Montes Claros,2020-07-26,SIM
+2632,M,92,Grão Mogol,2020-07-23,SIM
+2636,M,93,Baependi,2020-07-25,SIM
+2639,M,86,Alfenas,2020-07-27,SIM
+2642,M,74,Alfenas,2020-07-29,SIM
+2644,M,66,Conselheiro Lafaiete,2020-07-29,NÃO
+2647,M,78,Bonfinópolis de Minas,2020-07-26,SIM
+2649,M,79,Betim,2020-07-23,SIM
+2650,M,78,Betim,2020-07-28,SIM
+2651,M,70,Betim,2020-07-28,SIM
+2654,M,72,Contagem,2020-07-25,SIM
+2655,M,79,Contagem,2020-07-24,SIM
+2659,M,82,Contagem,2020-07-25,SIM
+2660,M,68,Contagem,2020-07-24,SIM
+2662,M,70,Contagem,2020-07-26,SIM
+2663,M,83,Contagem,2020-07-26,SIM
+2665,M,76,Contagem,2020-07-26,SIM
+2672,M,74,Ribeirão das Neves,2020-07-21,SIM
+2673,M,67,Ribeirão das Neves,2020-07-21,SIM
+2675,M,75,Sabará,2020-07-21,SIM
+2680,M,78,Belo Horizonte,,SIM
+2681,M,68,Belo Horizonte,,SIM
+2682,M,95,Belo Horizonte,,SIM
+2684,M,76,Belo Horizonte,,SIM
+2688,M,74,Belo Horizonte,,SIM
+2691,M,89,Belo Horizonte,,SIM
+2692,M,74,Belo Horizonte,,SIM
+2694,M,73,Outros Estados,2020-07-24,SIM
+2695,M,72,Muriaé,2020-07-17,SIM
+2697,M,89,Conquista,2020-07-28,SIM
+2699,M,80,Itaú de Minas,2020-07-28,SIM
+2700,M,94,São João Batista do Glória,2020-07-28,Não informado
+2703,M,72,Araguari,2020-07-28,SIM
+2704,M,92,Outros Estados,2020-07-29,SIM
+2705,M,92,Uberlândia,2020-07-30,SIM
+2710,M,87,Governador Valadares,2020-07-21,SIM
+2711,M,80,Governador Valadares,2020-07-23,SIM
+2714,M,68,Nova Módica,2020-07-22,SIM
+2715,M,75,Periquito,2020-07-24,Não informado
+2720,M,63,Ibirité,2020-07-26,SIM
+2726,M,77,Contagem,2020-07-28,SIM
+2727,M,80,Contagem,2020-07-27,SIM
+2729,M,89,Contagem,2020-07-18,SIM
+2733,M,89,Contagem,2020-07-17,Não informado
+2737,M,85,Montes Claros,2020-07-28,SIM
+2739,M,75,Muriaé,2020-07-24,SIM
+2741,M,75,Belo Horizonte,,SIM
+2746,M,81,Belo Horizonte,,SIM
+2748,M,80,Belo Horizonte,,SIM
+2750,M,76,Belo Horizonte,,SIM
+2751,M,78,Belo Horizonte,,SIM
+2753,M,71,Belo Horizonte,,SIM
+2754,M,83,Belo Horizonte,,SIM
+2759,M,71,Belo Horizonte,,SIM
+2760,M,68,Belo Horizonte,,SIM
+2763,M,89,Belo Horizonte,,SIM
+2764,M,82,Belo Horizonte,,SIM
+2770,M,78,Uberaba,2020-07-29,Não informado
+2771,M,74,Iturama,2020-07-29,Não informado
+2772,M,74,Porto Firme,2020-07-29,Não informado
+2773,M,61,Juiz de Fora,2020-07-30,SIM
+2774,M,64,Juiz de Fora,2020-07-30,SIM
+2775,M,89,Montes Claros,2020-07-30,SIM
+2777,M,74,Passos,2020-07-30,SIM
+2778,M,70,Governador Valadares,2020-07-26,SIM
+2780,M,62,Governador Valadares,2020-07-20,Não informado
+2782,M,74,Governador Valadares,2020-07-06,SIM
+2783,M,66,Aimorés,2020-07-22,Não informado
+2785,M,72,Alpercata,2020-07-06,SIM
+2788,M,64,Governador Valadares,2020-07-10,SIM
+2791,M,63,Governador Valadares,2020-07-13,Não informado
+2792,M,69,Governador Valadares,2020-07-19,SIM
+2795,M,77,Governador Valadares,2020-07-05,SIM
+2799,M,86,Contagem,2020-07-30,SIM
+2800,M,73,Contagem,2020-07-07,SIM
+2801,M,86,Igarapé,2020-07-30,SIM
+2802,M,69,Igarapé,2020-07-30,SIM
+2804,M,71,Ribeirão das Neves,2020-07-25,SIM
+2806,M,84,Ribeirão das Neves,2020-07-17,SIM
+2809,M,68,Ribeirão das Neves,2020-07-21,SIM
+2811,M,62,Teófilo Otoni,2020-07-24,SIM
+2814,M,80,Itambacuri,2020-07-21,Não informado
+2816,M,78,Nanuque,2020-07-28,SIM
+2817,M,80,Braúnas,2020-07-26,SIM
+2818,M,64,Vermelho Novo,2020-07-27,SIM
+2819,M,77,Ipatinga,2020-07-24,SIM
+2820,M,84,Ipatinga,2020-07-24,SIM
+2822,M,72,Poços de Caldas,2020-07-29,SIM
+2823,M,87,Santa Rita De Caldas,2020-07-29,SIM
+2825,M,78,Toledo,2020-07-25,SIM
+2827,M,67,Três Corações,2020-07-29,SIM
+2829,M,67,Leopoldina,2020-06-21,Não informado
+2832,M,62,Cataguases,2020-07-28,Não informado
+2836,M,84,Belo Horizonte,,SIM
+2837,M,70,Belo Horizonte,,SIM
+2838,M,88,Belo Horizonte,,SIM
+2845,M,75,Belo Horizonte,,SIM
+2847,M,71,Belo Horizonte,,SIM
+2849,M,67,Belo Horizonte,,SIM
+2850,M,72,Belo Horizonte,,SIM
+2852,M,70,Belo Horizonte,,SIM
+2853,M,76,Belo Horizonte,,SIM
+2854,M,65,Belo Horizonte,,SIM
+2857,M,64,Belo Horizonte,,SIM
+2858,M,73,Uberlândia,2020-07-30,SIM
+2859,M,63,Uberlândia,2020-07-30,SIM
+2860,M,85,Uberlândia,2020-07-30,SIM
+2862,M,71,Ituiutaba,2020-07-29,SIM
+2863,M,67,Ituiutaba,2020-07-30,Não informado
+2864,M,88,Bom Jesus do Galho,2020-07-28,Não informado
+2870,M,91,Inhapim,2020-07-28,SIM
+2872,M,75,Ipatinga,2020-07-29,SIM
+2877,M,62,Delta,2020-07-30,SIM
+2878,M,68,Fronteira,2020-07-25,SIM
+2881,M,83,Ibiraci,2020-07-30,SIM
+2882,M,79,Delfinópolis,2020-07-31,SIM
+2884,M,67,João Monlevade,2020-07-27,Não informado
+2885,M,84,Maria da Fé,2020-07-21,SIM
+2886,M,77,Poços de Caldas,2020-07-28,SIM
+2887,M,81,Itajubá,2020-07-29,SIM
+2889,M,80,Cambuí,2020-05-15,SIM
+2890,M,86,Andradas,2020-07-30,SIM
+2894,M,68,Pouso Alegre,2020-08-01,SIM
