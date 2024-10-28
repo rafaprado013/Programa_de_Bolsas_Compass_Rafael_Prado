@@ -41,7 +41,7 @@ Olá, sou Rafael Nascimento Prado, tenho 22 anos, e seja vindo ao meu perfil :)
 - AWS Partner: Accreditation (Technical)
 --- 
 ##### SPRINT 5:
-- Cloud Quest (Amazon S3, EC2, AWS pricing Calculator, Amazon VPC, DynamoDB, Amazon Relational Database Service (RDS), AWS Identity and Access Management (IAM),  Amazon Elastic File System (EFS), Amazon EC2 Auto ScalingS, Elastic Load Balancing (ELB).
+- Cloud Quest (Amazon S3, EC2, AWS pricing Calculator, Amazon VPC, DynamoDB, Amazon Relational Database Service (RDS), AWS Identity and Access Management (IAM),  Amazon Elastic File System (EFS), Amazon EC2 Auto ScalingS, Elastic Load Balancing (ELB)).
 - Curso-padrão de preparação para o exame: AWS Certified Cloud Practitioner (CLF-C02 - Português (Brasil)) 
 
 ##
