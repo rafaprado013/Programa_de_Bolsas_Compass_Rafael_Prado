@@ -4,7 +4,9 @@ Nesta Sprint, tivemos um aprendizado focado em AWS, foram feitos diversos cursos
 
 ## Evidências
 
-Nesta sprint será dado destaque a evidência da criação da imagem do container, do script usado para subir os arquivos, e do bucket criado na AWS.
+Nesta sprint será dado destaque a evidência da criação da imagem do container, do script usado para subir os arquivos e do bucket criado na AWS.
+
+---
 
 ### Imagem:
 
