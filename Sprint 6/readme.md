@@ -8,14 +8,14 @@ Nesta sprint será dado destaque a evidência da criação da imagem do containe
 
 ### Imagem:
 
-![Codigo_criacao_imagem](./../evidencias/01_CODIGO_CRIAR_IMAGEM.png)
+![Codigo_criacao_imagem](./../Sprint%206/evidencias/01_codigo_criar_img.png)
 
 ### Script:
 
-![script_upload_imagem](./../evidencias/03_SCRIPT_UPLOAD_CSV.png)
+![script_upload_imagem](./../Sprint%206/evidencias/02_criacao_imagem.png)
 
 ### Bucket:
-![criacao_bucket](./../evidencias/06_criacao_bucket.png)
+![criacao_bucket](./../Sprint%206/evidencias/05_criacao_bucket.png)
 
 
 ## Exercícios:
@@ -26,19 +26,19 @@ Nesta sprint será dado destaque a evidência da criação da imagem do containe
 
 #### Lab AWS Athena:
 
-![query_athena_01](./../evidencias/Exercicios/Athena/07_query02.png)
-![query_athena_02](./../evidencias/Exercicios/Athena/07_query02_resultado_1.png)
-![query_athena_03](./../evidencias/Exercicios/Athena/07_query02_resultado_2.png)
+![query_athena_01](./../Sprint%206/evidencias/Exercicios/Athena/06_query02.png)
+![query_athena_02](./../Sprint%206/evidencias/Exercicios/Athena/06_query02_resultado_1.png)
+![query_athena_03](./../Sprint%206/evidencias/Exercicios/Athena/06_query02_resultado_2.png)
 
 #### Lab AWS Lambda:
 
-![03_codigo_upload_csvs](./../evidencias/Exercicios/Lambda/05_resultado_final.png)
+![03_codigo_upload_csvs](./../Sprint%206/evidencias/Exercicios/Lambda/04_resultado_final.png)
 
 ## Certificados
 
 - Segue os cursos feitos durante a sprint abaixo:
 
-![03_codigo_upload_csvs](./../certificados/Cursos_AWS.png)
+![03_codigo_upload_csvs](./certificados/Cursos_AWS.png)
 
 #### Segue abaixo o link dos respectivos certificados.
 

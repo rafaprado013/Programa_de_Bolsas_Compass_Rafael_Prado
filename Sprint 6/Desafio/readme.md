@@ -90,20 +90,16 @@ enviar_para_s3(arquivo_series, especificacao_series, 'series.csv')
  
  ---
 ### Evidência da execução do código que sobe os CSV'S:
-
-![execucao_script](./../evidencias/05_codigo_upload_arquivos.png)
+![execucao_script](./../evidencias/04_codigo_upload_arquivos.png)
 
 ## Evidência da criação do bucket:
-
-![criacao_bucket](./../evidencias/06_criacao_bucket.png)
+![criacao_bucket](./../evidencias/05_criacao_bucket.png)
 
 ### Evidencia do Upload do CSV Movies:
-
-![upload_csv_movies](./../evidencias/07_csv_AWS_movies.png)
+![upload_csv_movies](./../evidencias/06_csv_AWS_movies.png)
 
 ### Evidencia do Upload do CSV Series:
-
-![upload_csv_series](./../evidencias/07_csv_AWS_series.png)
+![upload_csv_series](./../evidencias/06_csv_AWS_series.png)
 
 
 ## TIPO DE ANÁLISE A SER FEITA NO CSV:
