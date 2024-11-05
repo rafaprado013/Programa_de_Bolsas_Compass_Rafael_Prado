@@ -1,16 +1,13 @@
-# Use a imagem oficial do Python
 FROM python:3.9
 
-# Define o diretório de trabalho dentro do container
 WORKDIR /app
 
-# Copia o script Python para o container
-COPY script.py .
-COPY series.csv .
-COPY movies.csv .
+VOLUME ["/app/volume"]
 
-# Instala boto3 para integração com o S3
+COPY script.py /app/volume/script.py
+COPY series.csv /app/volume/series.csv 
+COPY movies.csv /app/volume/movies.csv
+
 RUN pip install boto3
 
-# Comando para executar o script Python
-CMD ["python", "script.py"]
+CMD ["python", "/app/volume/script.py"]
