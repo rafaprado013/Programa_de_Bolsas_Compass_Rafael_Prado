@@ -104,6 +104,6 @@ enviar_para_s3(arquivo_series, especificacao_series, 'series.csv')
 
 ## TIPO DE ANÁLISE A SER FEITA NO CSV:
 
-- O tema do Squad em que me encontro é Ação/Aventura. A analise a ser feita por mim será baseada na `relação de duração dos filmes dos anos 80` (tempoMinutos) com a `avaliação do filme`.
+- O tema do Squad em que me encontro é Ação/Aventura. A analise a ser feita por mim será baseada na `relação da duração dos filmes dos anos 80` (tempoMinutos) com a `nota de avaliação dos filmes`.
 
 #
