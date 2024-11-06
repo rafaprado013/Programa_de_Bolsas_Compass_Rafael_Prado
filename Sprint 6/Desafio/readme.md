@@ -46,7 +46,7 @@ CMD ["python", "/app/volume/script.py"]
 
 Esse código tem como objetivo conectar-se ao S3 da AWS e enviar os arquivos movies.csv e series.csv para um bucket específico (data-lake-do-rafael-prado). Além disso, ele organiza o caminho de armazenamento no S3 com uma estrutura padrão que inclui camada, origem, formato, uma especificação para cada tipo de arquivo (filmes e séries) e a data de processamento. A função `enviar_para_s3` faz o upload dos arquivos seguindo essa estrutura, exibindo uma mensagem de confirmação ao final de cada envio.
 
-- Segue abaixo o codigo do dockerfile usado para construção da imagem e em seguida sua explicação:
+- Segue abaixo o codigo em python para o upload dos CSVS para a nuvem:
 
 ```Python
 import boto3
