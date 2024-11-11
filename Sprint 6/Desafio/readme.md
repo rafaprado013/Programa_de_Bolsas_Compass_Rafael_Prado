@@ -105,7 +105,8 @@ enviar_para_s3(arquivo_series, especificacao_series, 'series.csv')
 ## TIPO DE ANÁLISE A SER FEITA NO CSV:
 
 - O tema do Squad em que me encontro é Ação/Aventura. As analises a serem feita por mim serão as seguintes:
-      - `relação da duração dos filmes dos anos 90` (tempoMinutos) com a `nota de avaliação dos filmes`;
-      - `relação do numero de filmes de Ação em que o protagonista é do genero mascuino/feminino.`, com o intuito de comparar a discrepância entre o numero de atrizes / atores em filmes de Ação.
-      - `Evolução do faturamento dos filmes 'Ação/Aventura' ao longo das décadas`.
+
+  - `relação da duração dos filmes dos anos 90` (tempoMinutos) com a `nota de avaliação` dos filmes;
+  - `relação do numero de filmes de Ação` em que o protagonista é do `genero mascuino/feminino`, com o intuito de comparar a discrepância entre o numero de atrizes / atores em filmes de Ação;
+  - `Evolução do faturamento dos filmes 'Ação/Aventura' ao longo das décadas.`
 
