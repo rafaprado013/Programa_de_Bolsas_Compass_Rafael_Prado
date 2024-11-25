@@ -46,7 +46,7 @@ def buscar_detalhes_filme(api_key, movie_id):
         print(f"Erro ao buscar detalhes do filme {movie_id}: {resposta.status_code}")  # Log de erro.
         return None
 
-# Função principal que será executada, ideal para uso em uma função AWS Lambda.
+# Função principal que será executada
 def lambda_handler(event, context):
     total_filmes = 3000  # Quantidade total de filmes a coletar.
     filmes_por_arquivo = 100  # Quantidade de filmes por arquivo JSON.
