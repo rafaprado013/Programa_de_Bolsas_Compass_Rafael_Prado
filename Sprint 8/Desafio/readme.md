@@ -69,7 +69,6 @@ glueContext.write_dynamic_frame.from_options(
 
 job.commit()
 
-print("Dados processados e salvos com sucesso no S3!")
 
 ```
 --- 
