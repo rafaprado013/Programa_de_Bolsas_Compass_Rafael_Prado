@@ -60,8 +60,10 @@ Olá, sou Rafael Nascimento Prado, tenho 22 anos, e seja vindo ao meu perfil :)
 - S3, Glue, Athena
 --- 
 ##### SPRINT 9:
+- S3, Glue, Athena, CloudWatch
 --- 
 - S3, Glue, Athena, CloudWatch
+---
 ##### SPRINT 10:
 - AWS QuickSight
 
