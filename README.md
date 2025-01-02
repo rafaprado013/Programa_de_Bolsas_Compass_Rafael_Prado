@@ -43,6 +43,27 @@ Olá, sou Rafael Nascimento Prado, tenho 22 anos, e seja vindo ao meu perfil :)
 ##### SPRINT 5:
 - Cloud Quest (Amazon S3, EC2, AWS pricing Calculator, Amazon VPC, DynamoDB, Amazon Relational Database Service (RDS), AWS Identity and Access Management (IAM),  Amazon Elastic File System (EFS), Amazon EC2 Auto ScalingS, Elastic Load Balancing (ELB)).
 - Curso-padrão de preparação para o exame: AWS Certified Cloud Practitioner (CLF-C02 - Português (Brasil)) 
+--- 
+##### SPRINT 6:
+- Serviços AWS:
+  -Docker - containers
+  -S3
+  -Athena
+  -Lambda
+  -Glue
+--- 
+##### SPRINT 7:
+ - Curso: Formação Spark com Pyspark
+ - Athena, Datalake Formation, Glue, S3
+--- 
+##### SPRINT 8:
+- S3, Glue, Athena
+--- 
+##### SPRINT 9:
+--- 
+- S3, Glue, Athena, CloudWatch
+##### SPRINT 10:
+- AWS QuickSight
 
 ##
 **Sprints**:
