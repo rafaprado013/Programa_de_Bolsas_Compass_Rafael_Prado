@@ -139,9 +139,3 @@ Através da análise dos graficos, conclui-se que:
 --- 
 
 Link para o Dashboard: 
-
-### Modelo Dimensional:
-
-Por fim, abaixo encontra-se o modelo dimensional o qual foi tomado como base para a realização dos graficos no QuickSight.
-
-![x](./..//Desafio/Modelo%20Dimensional/modelo%20dimensional.png)

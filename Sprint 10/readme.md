@@ -9,15 +9,12 @@ No curso "Complete Introduction to Amazon QuickSight", foi passado tudo que prec
 
 ## Evidências
 
-- Nesta sprint será dado destaque a evidência da ``Criaçao de 3 dos 8 gráficos do Dashboard`` e do ``Modelo dimensional``. Segue abaixo os graficos, com suas respectivas legendas e em seguida o modelo:
+- Nesta sprint será dado destaque a evidência dos gráficos do Dashboard. Segue abaixo:
 
 ### Graficos:
 
 ![x](./..//Sprint%2010/evidencias/4_graficos_dash.png)
-
-### Modelo Dimensional:
-
-![x](./..//Sprint%2010/Desafio/Modelo%20Dimensional/modelo%20dimensional.png)
+![x](./..//Sprint%2010/evidencias/graficos_dash.png)
 
 ## Exercícios:
 
